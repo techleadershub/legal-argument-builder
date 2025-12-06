@@ -1,0 +1,14 @@
+
+# Ignore git and local environment files
+.git/
+.gitignore
+.env
+.venv/
+__pycache__/
+*.zip
+# data/ <- We need this now for runtime ingestion
+meta/
+docs/
+deploy_aws.md
+check_qdrant.py
+ingest_case_law.py # Not needed in runtime container

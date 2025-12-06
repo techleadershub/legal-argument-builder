@@ -1,0 +1,1997 @@
+Title: Oil & Natural Gas Corporation Ltd vs Saw Pipes Ltd on 17 April, 2003
+URL: https://indiankanoon.org/doc/919241/
+Court: Unknown
+Date: Unknown
+
+================================================================================
+
+Supreme Court of India
+Oil & Natural Gas Corporation Ltd vs Saw Pipes Ltd on 17 April, 2003
+Equivalent citations: AIR 2003 SUPREME COURT 2629, 2003 AIR SCW 3041, 2003 (2) UJ (SC) 1035, (2003) 7 ALLINDCAS 147 (SC), 2003 (3) SLT 324, 2003 (7) ALLINDCAS 147, 2003 (3) COM LJ 1 SC, 2003 (4) SCALE 92, (2003) 4 JT 171 (SC), 2003 (2) ARBI LR 5, 2003 (2) LRI 348, 2003 (4) ACE 724, 2003 (5) SCC 705, (2003) 3 COMLJ 1, (2003) 4 JCR 148 (SC), 2003 UJ(SC) 2 1035, (2003) 4 MAD LW 482, (2003) 3 ANDHLD 82, (2003) 5 INDLD 849, (2003) 2 ARBILR 5, (2003) 2 RECCIVR 554, (2003) 1 WLC(SC)CVL 709, (2003) 2 CURCC 236, (2003) 3 SUPREME 449, (2003) 3 ICC 890, (2003) 4 SCALE 92, (2003) 3 GCD 1877 (SC), (2004) 1 BOM CR 245
+Bench:
+M.B. Shah
+Arun Kumar
+CASE NO.:
+Appeal (civil)  7419	2001
+of 518
+PETITIONER:
+Oil & Natural Gas Corporation Ltd.
+RESPONDENT:
+SAW Pipes Ltd.
+DATE OF JUDGMENT: 17/04/2003
+BENCH:
+M.B. SHAH & ARUN KUMAR.
+JUDGMENT:
+J U D G M E N T
+Shah, J.
+COURT'S JURISDICTION UNDER SECTION 34 OF THE
+ARBITRATION AND CONCILIATION ACT, 1966
+Before dealing with the issues involved in this appeal, we
+would first decide the main point in controversy, namely - the ambit
+and scope of Court's jurisdiction in case where award passed by the
+Arbitral Tribunal is challenged under
+Section 34
+of the Arbitration
+and Conciliation Act, 1996 (hereinafter referred to as "the Act") as the
+decision in this appeal would depend upon the said finding. In other
+words - whether the Court would have jurisdiction under
+Section 34
+of the Act  to set aside an award passed by the Arbitral Tribunal which
+is patently illegal or in contravention of the provisions of the Act or
+any other substantive law governing the parties or is against the terms
+of the contract?
+Learned senior counsel Mr. Ashok Desai appearing for the
+appellant submitted that in case where there is clear violation of
+Sections 28
+of the Act or the terms of the Contract between the
+parties, the  said award can be and is required to be set aside by the
+Court while exercising jurisdiction under
+Section 34
+of the Act.
+Mr. Dushyant Dave, learned senior counsel appearing on behalf
+of respondent - company submitted to the contrary and contended that
+the Court's jurisdiction under
+Section 34
+is limited and the award
+could be set aside mainly on the ground that the same is in conflict
+with the 'Public Policy of India'.  According to his submission, the
+phrase 'Public Policy of India' cannot be interpreted to mean that in
+case of violation of some provisions of law, the Court can set aside the
+award.
+For deciding this controversy, we would refer to the relevant
+part of
+Section 34
+which reads as under:-
+"34.	Application for setting aside arbitral award -
+(1) Recourse to a court against an arbitral award may be
+made only by an application for setting aside such award
+in accordance with sub-section (2) and sub-section (3).
+(2)	An arbitral award may be set aside by the court
+only if-
+(a)	the party making the application furnishes proof
+that-
+(i)	a party was under some incapacity, or
+(ii)	the arbitration agreement is not valid under
+the law to which the parties have subjected it
+or, failing any indication thereon, under the
+law for the time being in force; or
+(iii)	the party making the application was not
+given proper notice of the appointment of an
+arbitrator or of the arbitral proceedings or
+was otherwise unable to present his case; or
+(iv)	the arbitral award deals with a dispute not
+contemplated by or not falling within the
+terms of the submission to arbitration, or it
+contains decisions on matters beyond the
+scope of the submission to arbitration;
+Provided that, if the decisions on matters submitted
+to arbitration can be separated from those not so
+submitted, only that part of the arbitral award which
+contains decisions on matters not submitted to arbitration
+may be set aside; or
+(v)	the composition of the arbitral tribunal or
+the arbitral procedure was not in
+accordance with the agreement of the
+parties, unless such agreement was in
+conflict with a provision of this Part from
+which the parties cannot derogate, or, failing
+such agreement, was not in accordance with
+this Part; or
+(b)	the court finds that-
+(i)	the subject-matter of the dispute is not
+capable of settlement by arbitration under
+the law for the time being in force, or
+(ii)	the arbitral award is in conflict with the
+public policy of India.
+Explanation-Without prejudice to the generality
+of sub-clause (ii), it is hereby declared, for the avoidance
+of any doubt, that an award is in conflict with the public
+policy of India if the making of the award was induced
+or affected by fraud or corruption or was in violation of
+Section 75
+Section 81
+For our purpose, it is not necessary to refer to the scope of self
+explanatory Clauses (i) to (iv) of sub-section (2)(a) of
+Section 34
+the Act and it does not require elaborate discussion. However, clause
+(v) of sub-
+section 2(a)
+and clause (ii) of sub-
+section 2(b)
+require
+consideration.	For proper adjudication of the question of jurisdiction,
+we shall first consider what meaning could be assigned to the term
+'Arbitral Procedure'.
+'ARBITRAL PROCEDURE'
+The ingredients of clause (v) are as under:-
+1)	The Court may set aside the award:-
+(i)	(a)  if the composition of the arbitral
+Tribunal was not in accordance with
+the agreement of the parties,
+(b)	failing such agreement, the
+composition of the arbitral tribunal
+was not in accordance with
+Part-I of
+the Act
+(ii)	if the arbitral procedure was not in
+accordance with:-
+a)	the agreement of the parties, or
+b)	failing such agreement, the arbitral
+procedure was not in accordance with
+Part-I of the Act
+However, exception for setting aside the award on the ground
+of composition of arbitral tribunal or illegality of arbitral procedure is
+that the agreement should not be in conflict with the provisions of
+Part-I of the Act
+from which parties cannot derogate.
+In the aforesaid sub-clause (v), the emphasis is on the
+agreement and the provisions of
+Part-I of the Act
+from which parties
+cannot derogate.  It means that the composition of arbitral tribunal
+should be in accordance with the agreement.  Similarly, the procedure
+which is required to be followed by the arbitrators should also be in
+accordance with the agreement of the parties.  If there is no such
+agreement then it should be in accordance with the procedure
+prescribed in the
+Part-I of the Act
+i.e.
+Sections 2
+.  At the same
+time, agreement for composition of arbitral tribunal or arbitral
+procedure should not be in conflict with the provisions of the Act
+from which parties cannot derogate.  Chapter V of Part-I of the Act
+provides for conduct of arbitral proceedings.
+Section 18
+mandates
+that parties to the arbitral proceedings shall be treated with equality
+and each party shall be given full opportunity to present his case.
+Section 19
+specifically provides that arbitral tribunal is not bound by
+the Code of Civil Procedure
+, 1908 or the
+Indian Evidence Act, 1872
+and parties are free to agree on the procedure to be followed by the
+arbitral tribunal in conducting its proceedings.  Failing any agreement
+between the parties subject to other provisions of Part-I, the arbitral
+tribunal is to conduct the proceedings in the manner it considers
+appropriate.  This power includes the power to determine the
+admissibility, relevance, the materiality and weight of any evidence.
+Sections 20
+and
+deal with place of arbitration, commencement
+of arbitral proceedings and language respectively.  Thereafter,
+Sections 23
+and
+deal with statements of claim and defence,
+hearings and written proceedings and procedure to be followed in case
+of default of a party.
+At this stage, we would refer to
+Section 24
+which is as under:-
+"24.	Hearings and written proceedings- (1) Unless
+otherwise agreed by the parties, the arbitral tribunal
+shall decide whether to hold oral hearings for the
+presentation of evidence or for oral argument, or whether
+the proceedings shall be conducted on the basis of
+documents and other materials;
+Provided that the arbitral tribunal shall hold oral
+hearings, at an appropriate stage of the proceedings, on
+a request by a party, unless the parties have agreed that
+no oral hearing shall be held.
+(2)	The parties shall be given sufficient
+advance notice of any hearing and of any meeting of the
+arbitral tribunal for the purposes of inspection of
+documents, goods or other property.
+(3)	All statements, documents or other
+information supplied to, or applications made to the
+arbitral tribunal by one party shall be communicated to
+the other party, and any expert report or evidentiary
+document on which the arbitral tribunal may rely in
+making its decision shall be communicated to the
+parties."
+Thereafter, Chapter VI deals with making of arbitral award and
+termination of proceedings.  Relevant Sections which require
+consideration are
+Sections 28
+and
+Sections 28
+and
+read as
+under:-
+"28.  Rules applicable to substance of dispute-
+(1)  Where the place of arbitration is situate in
+India-
+(a)	in an arbitration other than an international
+commercial arbitration, the arbitral tribunal
+shall decide the dispute submitted to
+arbitration in accordance with the
+substantive law for the time being in force
+in India;
+(b)	in international commercial arbitration,-
+(i)	the arbitral tribunal shall decide the
+dispute in accordance with the rules
+of law designated by the parties as
+applicable to the substance of the
+dispute;
+(ii)	any designation by the parties of the
+law or legal system of a given country
+shall be construed, unless otherwise
+expressed, as directly referring to the
+substantive law of that country and
+not to its conflict of law rules;
+(iii)	failing any designation of the law
+under clause (a) by the parties, the
+arbitral tribunal shall apply the rules
+of law it considers to be appropriate
+given all the circumstances
+surrounding the dispute.
+(2)	The arbitral tribunal shall decide ex aequo et
+bono or as amiable compositeur only if the parties have
+expressly authorised it to do so.
+(3)	In all cases, the arbitral tribunal shall decide
+in accordance with the terms of the contract and shall
+take into account the usages of the trade applicable to the
+transaction.
+31.  Form and contents of arbitral award- (1) An
+arbitral award shall be made in writing and shall be
+signed by the members of the arbitral tribunal.
+(2)	For the purposes of sub-section (1), in
+arbitral proceedings with more than one arbitrator, the
+signatures of the majority of all the members of the
+arbitral tribunal shall be sufficient so long as the reason
+for any omitted signature is stated.
+(3)	The arbitral award shall state the reasons
+upon which it is based, unless-
+(a)	the parties have agreed that no reasons are to
+be given, or
+(b)	the award is an arbitral award on agreed
+terms under
+section 30
+(4)	The arbitral award shall state its date and the
+place of arbitration as determined in accordance with
+section 20
+and the award shall be deemed to have been
+made at that place.
+(5)	After the arbitral award is made, a signed
+(6)	The arbitral tribunal may, at any time during
+the arbitral proceedings, make an interim arbitral award
+on any matter with respect to which it may make a final
+arbitral award.
+(7)(a).	 Unless otherwise agreed by the parties,
+where and in so far as an arbitral award is for the
+payment of money, the arbitral tribunal may include in
+the sum for which the award is made interest, at such rate
+as it deems reasonable, on the whole or any part of the
+money, for the whole or any part of the period between
+the date on which the cause of action arose and the date
+on which the award is made.
+(b)	A sum directed to be paid by an arbitral
+award shall, unless the award otherwise directs, carry
+interest at the rate of eighteen per centum per annum
+from the date of the award to the date of payment.
+(8)	Unless otherwise agreed by the parties,-
+(a)	the costs of an arbitration shall be fixed by
+the arbitral tribunal;
+(b)	the arbitral tribunal shall specify,-
+(i)	the party entitled to costs,
+(ii)	the party who shall pay the costs,
+(iii)	the amount of costs or method of
+determining that amount, and
+(iv)	the manner in which the costs shall be
+paid.
+Explanation: For the purpose of clause (a), "costs"
+means reasonable costs relating to,-
+(i)	the fees and expenses of the arbitrators and
+witnesses,
+(ii)	legal fees and expenses,
+(iii)	any administration fees of the institution
+supervising the arbitration, and
+(iv)	any other expenses incurred in connection
+with the arbitral proceedings and the arbitral
+award."
+The aforesaid provisions prescribe the procedure to be followed
+by the arbitral tribunal coupled with its powers.  Power and procedure
+are synonymous in the present case.  By prescribing the procedure, the
+arbitral tribunal is empowered and is required to decide the dispute in
+accordance with the provisions of the Act, that is to say, the
+jurisdiction of the tribunal to decide the dispute is prescribed.  In these
+sections there is no distinction between the jurisdiction/power and the
+procedure.
+Harish Chandra Bajpai  v. Triloki Singh
+[1957 SCR
+370], while dealing with
+Sections 90
+and
+of the Representation of
+the People Act, 1951 (as it stood), this Court observed thus:-
+"It is then argued that S. 92 confers powers on the
+Tribunal in respect of certain matters, while S. 90(2)
+applies
+the CPC
+in respect of matters relating to
+procedure that there is a distinction between power and
+procedure, and that the granting of amendment being a
+power and not a matter of procedure, it can be claimed
+only under section 92 and not under S. 90(2).  We do not
+see any antithesis between 'procedure' in S. 90(2) and
+'powers' under S. 92.  When the respondent applied to
+the Tribunal for amendment, he took a procedural step,
+and that he was clearly entitled to do under S. 90(2).	The
+question of power arises only with reference to the order
+to be passed on the petition by the Tribunal. Is it to be
+held that the presentation of a petition is competent, but
+the passing of any order thereon is not?  We are of
+opinion that there is no substance in the contention
+either."
+Hence, the jurisdiction or the power of the arbitral tribunal is
+prescribed under the Act and if the award is de hors the said
+provisions, it would be, on the face of it, illegal.  The decision of the
+Tribunal must be within the bounds of its jurisdiction conferred under
+the Act or the contract.  In exercising jurisdiction, the arbitral tribunal
+can not act in breach of some provision of substantive law or the
+provisions of the Act.
+The question, therefore, which requires consideration is -
+whether the award could be set aside, if the arbitral tribunal has not
+followed the mandatory procedure prescribed under
+Sections 24
+31(3), which affects the rights of the parties?	 Under sub-section (1)(a)
+Section 28
+there is a mandate to the arbitral tribunal to decide the
+dispute in accordance with the substantive law for the time being in
+force in India.	 Admittedly, substantive law would include the Indian
+Contract Act, the Transfer of Property Act and other such laws in
+force.	Suppose, if the award is passed in violation of the provisions of
+the
+Transfer of Property Act
+or in violation of the
+Indian Contract Act
+the question would be - whether such award could be set aside?
+Similarly, under sub-section (3), arbitral tribunal is directed to decide
+the dispute in accordance with the terms of the contract and also after
+taking into account the usage of the trade applicable to the transaction.
+If arbitral tribunal ignores the terms of the contract or usage of the
+trade applicable to the transaction, whether the said award could be
+interfered?  Similarly, if the award is non-speaking one and is in
+violation of
+Section 31(3)
+, can such award be set aside?  In our view,
+reading
+Section 34
+conjointly with other provisions of the Act, it
+appears that the legislative intent could not be that if the award is in
+contravention of the provisions of the Act, still however, it couldn't be
+set aside by the Court.	 If it is held that such award could not be
+interfered, it would be contrary to basic concept of justice.  If the
+arbitral tribunal has not followed the mandatory procedure prescribed
+under the Act, it would mean that it has acted beyond its jurisdiction
+and thereby the award would be patently illegal which could be set
+aside under
+Section 34
+The aforesaid interpretation of the clause (v) would be in
+conformity with the settled principle of law that the procedural law
+cannot fail to provide relief when substantive law gives the right.
+Principle is - there cannot be any wrong without a remedy.
+M.V.
+Elisabeth and others v. Harwan Investment & Trading Pvt. Ltd.
+[1993 Supp. (2) SCC 433] this Court observed that where substantive
+law demands justice for the party aggrieved and the statute has not
+provided the remedy, it is the duty of the Court to devise procedure by
+drawing analogy from other systems of law and practice.
+Similarly, in
+Dhanna Lal v. Kalawatibai and others [(2002) 6 SCC 16] this Court
+observed that wrong must not be left unredeemed and right not left
+unenforced.
+Result is - if the award is contrary to the substantive
+provisions of law or the provisions of the Act or against the terms of
+the contract, it would be patently illegal, which could be interfered
+under
+Section 34
+.  However, such failure of procedure should be
+patent affecting the rights of the parties.
+WHAT MEANING COULD BE ASSIGNED TO THE PHRASE
+'PUBLIC POLICY	OF INDIA'?
+The next clause which requires interpretation is clause (ii) of
+sub-
+section 2(b)
+Section 34
+which inter alia provides that the Court
+may set aside arbitral award if it is in conflict with the 'Public Policy
+of India'.  The phrase 'Public Policy of India' is not defined under the
+Act.  Hence, the said term is required to be given meaning in context
+and also considering the purpose of the section and scheme of the Act.
+It has been repeatedly stated by various authorities that the expression
+'public policy' does not admit of precise definition and may vary from
+generation to generation and from time to time.	 Hence, the concept
+'public policy' is considered to be vague, susceptible to narrow or
+wider meaning depending upon the context in which it is used.
+Lacking precedent the Court has to give its meaning in the light and
+principles underlying the Arbitration Act, Contract Act and
+Constitutional provisions.
+For this purpose, we would refer to few decisions referred to by
+the learned counsel for the parties.  While dealing with the concept of
+'public policy, this Court in
+Central Inland Water Transport
+Corporation Limited and another v. Brojo Nath Ganguly and
+another
+[(1986) 3 SCC 156] has observed thus: -
+"92.
+The Indian Contract Act
+does not define the
+expression "public policy" or "opposed to public policy".
+From the very nature of things, the expressions "public
+policy", "opposed to public policy", or "contrary to
+public policy" are incapable of precise definition.  Public
+policy, however, is not the policy of a particular
+government.  It connotes some matter which concerns the
+public good and the public interest.  The concept of what
+is for the public good or in the public interest or what
+would be injurious or harmful to the public good or the
+public interest has varied from time to time.  As new
+concepts take the place of old, transactions which were
+once considered against public policy are now being
+upheld by the courts and similarly where there has been a
+well recognized head of public policy, the courts have
+not shirked from extending it to the new transactions and
+changed circumstances and have at times not even
+flinched from inventing a new head of public policy.
+There are two schools of thought- "the narrow view"
+school and "the broad view" school.   According to the
+former, courts cannot create new heads of public policy
+whereas the latter countenances judicial law-making in
+this area.  The adherents of "the narrow view" school
+would not invalidate a contract on the ground of public
+policy unless that particular ground had been well-
+established by authorities.  Hardly ever has the voice of
+the timorous spoken more clearly and loudly than in
+these words of Lord Davey in Janson v. Driefontein
+Consolidated Gold Mines Ltd. [(1902) AC 484, 500] :
+"Public Policy is always an unsafe and treacherous
+ground for legal decision".  That was in the year 1902.
+Seventy-eight years earlier, Burrough, J., in Richardson
+v. Mellish [(1824) 2 Bing 229, 252] described public
+policy as "a very unruly horse, and when once you get
+astride it you never know where it will carry you."  The
+Master of the Rolls, Lord Denning, however, was not a
+man to shy away from unmanageable horses and in
+words which conjure up before our eyes the picture of the
+young Alexander the Great taming Bucephalus, he said in
+Enderby Town Football Club Ltd. v. Football Assn. Ltd.
+[(1971) Ch. 591, 606]; "With a good man in the saddle,
+the unruly horse can be kept in control. It can jump over
+obstacles".  Had the timorous always held the field, not
+only the doctrine of public policy but even the Common
+Law or the principles of Equity would never have
+evolved.  Sir William Holdsworth in his "History of
+English Law", Volume III, page 55, has said:
+In fact, a body of law like the
+common law, which has grown up gradually
+with the growth of the nation, necessarily
+acquires some fixed principles, and if it is to
+maintain these principles it must be able, on
+the ground of public policy or some other
+like ground, to suppress practices which,
+under ever new disguises, seek to weaken or
+negative them.
+It is thus clear that the principles governing public
+policy must be and are capable, on proper occasion, of
+expansion or modification. Practices which were
+considered perfectly normal at one time have today
+become obnoxious and oppressive to public conscience.
+If there is no head of public policy which covers a case,
+then the court must in consonance with public conscience
+and in keeping with public good and public interest
+declare such practice to be opposed to public policy.
+Above all, in deciding any case which may not be
+covered by authority our courts have before them the
+beacon light of the Preamble to the Constitution.
+Lacking precedent, the court can always be guided by
+that light and the principles underlying the Fundamental
+Rights and the Directive Principles enshrined in our
+Constitution.
+93.	The normal rule of Common Law has been
+that a party who seeks to enforce an agreement which is
+opposed to public policy will be non-suited.  The case of
+A. Schroeder Music Public Co. Ltd. v. Macaulay [(1974)
+1 WLR 1308], however, establishes that where a contract
+is vitiated as being contrary to public policy, the party
+adversely affected by it can sue to have it declared void.
+The case may be different where the purpose of the
+contract is illegal or immoral.
+Kedar Nath Motani v.
+Prahlad Rai
+[(1960) 1 SCR 861], reversing the High
+Court and restoring the decree passed by the trial court
+declaring the appellants' title to the lands in suit and
+directing the respondents who were the appellants'
+benamidars to restore possession, this Court, after
+discussing the English and Indian law on the subject, said
+(at page 873):
+The correct position in law, in our
+opinion, is that what one has to see is
+whether the illegality goes so much to the
+root of the matter that the plaintiff cannot
+bring his action without relying upon the
+illegal transaction into which he had entered.
+If the illegality be trivial or venial, as stated
+by Williston and the plaintiff is not required
+to rest his case upon that illegality, then
+public policy demands that the defendant
+should not be allowed to take advantage of
+the position.  A strict view, of course, must
+be taken of the plaintiff's conduct, and he
+should not be allowed to circumvent the
+illegality by resorting to some subterfuge or
+by misstating the facts.   If, however, the
+matter is clear and the illegality is not
+required to be pleaded or proved as part of
+the cause of action and the plaintiff recanted
+before the illegal purpose was achieved,
+then, unless it be of such a gross nature as to
+outrage the conscience of the court, the plea
+of the defendant should not prevail.
+The types of contracts to which the principle formulated
+by us above applies are not contracts which are tainted
+with illegality but are contracts which contain terms
+which are so unfair and unreasonable that they shock the
+conscience of the court.  They are opposed to public
+policy and require to be adjudged void."
+Further, in
+Renusagar Power Co. Ltd. v. General Electric Co.
+[1994 Supp. (1) SCC 644], this Court considered
+Section 7(1)
+of the
+Arbitration (Protocol and Convention) Act, 1937 which inter alia
+provided that a foreign award may not be enforced under the said Act,
+if the Court dealing with the case is satisfied that the enforcement of
+the award will be contrary to the Public Policy.  After elaborate
+discussion, the Court arrived at the conclusion that Public Policy
+comprehended in
+Section 7(1)(b)(ii)
+of the Foreign Awards
+(Recognition and Enforcement) Act, 1961 is the 'Public Policy of
+India' and does not cover the public policy of any other country.  For
+giving meaning to the term 'Public Policy', the Court observed
+thus:-
+"66.	Article V(2)(b) of the New York Convention of
+1958 and Section 7(1)(b)(ii) of the Foreign Awards Act
+do not postulate refusal of recognition and enforcement
+of a foreign award on the ground that it is contrary to the
+law of the country of enforcement and the ground of
+challenge is confined to the recognition and enforcement
+being contrary to the public policy of the country in
+which the award is set to be enforced.	There is nothing
+to indicate that the expression "public policy" in Article
+V(2)(b) of the New York Convention and Section
+7(1)(b)(ii) of the Foreign Awards Act is not used in the
+same sense in which it was used in Article I(c) of the
+Geneva Convention of 1927 and
+Section 7(1)
+of the
+Protocol and Convention Act of 1937.  This would mean
+that "public policy" in
+Section 7(1)(b)(ii)
+has been used
+in a narrower sense and in order to attract to bar of
+public policy the enforcement of the award must invoke
+something more than the violation of the law of India.
+Since the Foreign Awards Act is concerned with
+recognition and enforcement of foreign awards which are
+governed by the principles of private international law,
+the expression "public policy" in Section 7(1)(b)(ii) of
+the Foreign Awards Act must necessarily be construed in
+the sense the doctrine of public policy is applied in the
+field of private international law.  Applying the said
+criteria it must be held that the enforcement of a
+foreign award would be refused on the ground that it is
+contrary to public policy if such enforcement would be
+contrary to (i) fundamental policy of Indian law; or (ii)
+the interests of India; or (iii) justice or morality."
+The Court finally held that:-
+"76.	Keeping in view the aforesaid objects underlying
+FERA and the principles governing enforcement of
+exchange control laws followed in other countries, we are
+of the view that the provisions contained in FERA have
+been enacted to safeguard the economic interests of India
+and any violation of the said provisions would be
+contrary to the public policy of India as envisaged in
+Section 7(1)(b)(ii)
+of the Act."
+This Court in
+Murlidhar Agarwal and another v. State of U.P.
+and others
+[1974 (2) SCC 472] while dealing with the concept of
+'public policy' observed thus:-
+"31.  Public policy does not remain static in any
+given community.  It may vary from generation to
+generation and even in the same generation.  Public
+policy would be almost useless if it were to remain in
+fixed moulds for all time.
+32.	... The difficulty of discovering what public
+policy is at any given moment certainly does not absolve
+the Judges from the duty of doing so.  In conducting an
+enquiry, as already stated, Judges are not hide-bound by
+precedent.  The Judges must look beyond the narrow
+field of past precedents, though this still leaves open the
+question, in which direction they must cast their gaze.
+The Judges are to base their decision on the opinions of
+men of the world, as distinguished from opinions based
+on legal learning.  In other words, the Judges will have to
+look beyond the jurisprudence and that in so doing, they
+must consult not their own personal standards or
+predilections but those of the dominant opinion at a given
+moment, or what has been termed customary morality.
+The Judges must consider the social consequences of the
+rule propounded, especially in the light of the factual
+evidence available as to its probable results. .... The
+point is rather that this power must be lodged somewhere
+and under our Constitution and laws, it has been lodged
+in the Judges and if they have to fulfil their function as
+Judges, it could hardly be lodged elsewhere."
+Mr. Desai submitted that the narrow meaning given to the term
+'public policy' in
+Renusagar
+'s case is in context of the fact that the
+question involved in the said matter was with regard to the execution
+of the award which had attained finality.  It was not a case where
+validity of the Award is challenged before a forum prescribed under
+the Act.  He submitted that the scheme of
+Section 34
+which deals with
+setting aside the domestic arbitral award and
+Section 48
+which deals
+with enforcement of foreign award are not identical.  A foreign award
+by definition is subject to double exequatur.  This is recognized inter
+alia by
+Section 48 (1)
+and there is no parallel provision to this clause
+Section 34
+.	For this, he referred to Lord Mustill & Stewart C.
+Boyd QC's "Commercial Arbitration" 2001 wherein [at page 90] it is
+stated as under:-
+"Mutual recognition of awards is the glue which
+holds the international arbitrating community together,
+and this will only be strong if the enforcing court is
+willing to trust, as the convention assumes that they will
+trust, the supervising authorities of the chosen venue.	 It
+follows that if, and to the extent that the award has been
+struck down in the local court it should be a matter of
+theory and practice be treated when enforcement is
+sought as if to the extent it did not exist."
+He further submitted that in foreign arbitration, the award
+would be subject to being set aside or suspended by the competent
+authority under the relevant law of that country whereas in the
+domestic arbitration the only recourse is to
+Section 34
+The aforesaid submission of the learned senior counsel requires
+to be accepted.	 From the judgments discussed above, it can be held
+that the term 'public policy of India' is required to be interpreted in
+the context of the jurisdiction of the Court where the validity of award
+is challenged before it becomes final and executable.  The concept of
+enforcement of the award after it becomes final is different and the
+jurisdiction of the Court at that stage could be limited.  Similar is the
+position with regard to the execution of a decree.  It is settled law as
+well as it is provided under
+Code of Civil Procedure
+that once the
+decree has attained finality, in an execution proceeding, it may be
+challenged only on limited grounds such as the decree being without
+jurisdiction or nullity.  But in a case where the judgment and decree is
+challenged before the Appellate Court or the Court exercising
+revisional jurisdiction, the jurisdiction of such Court would be wider.
+Therefore, in a case where the validity of award is challenged there is
+no necessity of giving a narrower meaning to the term 'public policy
+of India'.  On the contrary, wider meaning is required to be given so
+that the 'patently illegal award' passed by the arbitral tribunal could
+be set aside.  If narrow meaning as contended by the learned senior
+counsel Mr. Dave is given, some of the provisions of the
+Arbitration
+Act
+would become nugatory.  Take for illustration a case wherein
+there is a specific provision in the contract that for delayed payment of
+the amount due and payable, no interest would be payable, still
+however, if the Arbitrator has passed an award granting interest, it
+would be against the terms of the contract and thereby against the
+provision of
+Section 28(3)
+of the Act which specifically provides that
+"arbitral tribunal shall decide in accordance with the terms of the
+contract".  Further, where there is a specific usage of the trade that if
+the payment is made beyond a period of one month, then the party
+would be required to pay the said amount with interest at the rate of
+15 per cent.  Despite the evidence being produced on record for such
+usage, if the arbitrator refuses to grant such interest on the ground of
+equity, such award would also be in violation of sub-sections (2) and
+(3) of
+Section 28
+Section 28(2)
+specifically provides that arbitrator
+shall decide ex aequo et bono [according to what is just and good]
+only if the parties have expressly authorised him to do so.  Similarly,
+if the award is patently against the statutory provisions of substantive
+law which is in force in India or is passed without giving an
+opportunity of hearing to the parties as provided under
+Section 24
+without giving any reason in a case where parties have not agreed that
+no reasons are to be recorded, it would be against the statutory
+provisions.  In all such cases, the award is required to be set aside on
+the ground of 'patent illegality'.
+The learned senior counsel Mr. Dave submitted that the
+Parliament has not made much change while adopting
+Article 34
+UNCITRAL Model Law by not providing error of law as a ground of
+challenge to the arbitral award under
+Section 34
+of the Act.  For this
+purpose, he referred to
+Sections 68
+and
+of the Arbitration Act,
+1996 applicable in England and submitted that if the legislature
+wanted to give a wider jurisdiction to the Court, it would have done so
+by adopting similar provisions.
+Section 68
+of the law applicable in England provides that the
+award can be challenged on the ground of serious irregularities
+mentioned therein.
+Section 68
+reads thus: -
+"68.  Challenging the award: serious irregularity-
+(1)	A party to arbitral proceedings may (upon notice to
+the other parties and to the tribunal) apply to the court
+challenging an award in the proceedings on the ground of
+serious irregularity affecting the tribunal, the proceedings
+or the award.
+A party may lose the right to object (see
+Section 73
+) and
+the right to apply is subject to the restrictions in
+section
+70(2)
+and (3).
+(2)	Serious irregularity means an irregularity of one or
+more of the following kinds which the court considers
+has caused or will cause substantial injustice to the
+applicant-
+(a)	failure by the tribunal to comply with
+section 33
+(general duty of tribunal);
+(b)	the tribunal exceeding its powers (otherwise
+than by exceeding its substantive
+jurisdiction: see
+section 67
+(c)	failure by the tribunal to conduct the
+proceedings in accordance with the
+procedure agreed by the parties;
+(d)	failure by the tribunal to deal with all the
+issues that were put to it;
+(e)	any arbitral or other institution or person
+vested by the parties with powers in relation
+to the proceedings or the award exceeding
+its powers;
+(f)	uncertainty or ambiguity as to the effect of
+the award;
+(g)	the award being obtained by fraud or the
+award or the way in which it was procured
+being contrary to public policy;
+(h)	failure to comply with the requirement as to
+the form of the award; or
+(i)	any irregularity in the conduct of the
+proceedings or in the award which is
+admitted by the tribunal or by any arbitral or
+other institution or person vested by the
+parties with powers in relation to the
+proceedings or the award.
+(3)	If there is shown to be serious irregularity affecting
+the tribunal, the proceedings or the award, the court
+may-
+(a)	remit the award to the tribunal, in whole or
+in part, for reconsideration;
+(b)	set the award aside in whole or in part, or
+(c)	declare the award to be of no effect, in
+whole or in part.
+The Court shall not exercise its power to set aside or to
+declare an award to be of no effect, in whole or in part,
+unless it is satisfied that it would be inappropriate to
+remit the matters in question to the tribunal for
+reconsideration.
+(4)	The leave of the Court is required for any appeal
+from a decision of the court under this section."
+Similarly,
+Section 69
+provides that appeal on point of law
+would be maintainable and the procedure thereof is also provided.
+Section 70
+provides supplementary provisions.
+It is true that Legislature has not incorporated exhaustive
+grounds for challenging the award passed by the arbitral tribunal or
+the ground on which appeal against the order of the Court would be
+maintainable.
+On this aspect, eminent Jurist & Senior Advocate Late Mr.
+Nani Palkhivala while giving his opinion to 'Law of Arbitration and
+Conciliation' by Justice Dr. B.P. Saraf and Justice S.M.
+Jhunjhunuwala, noted thus:-
+"I am extremely impressed by your analytical
+approach in dealing with the complex subject of
+arbitration which is emerging rapidly as an alternate
+mechanism for resolution of commercial disputes.  The
+new arbitration law has been brought in parity with
+statutes in other countries, though I wish that the Indian
+law had a provision similar to section 68 of the English
+Arbitration Act, 1996 which gives power to the Court to
+correct errors of law in the award.
+I welcome your view on the need for giving the
+doctrine of "public policy" its full amplitude.	 I
+particularly endorse your comment that Courts of law
+may intervene to permit challenge to an arbitral award
+which is based on an irregularity of a kind which has
+caused substantial injustice.
+If the arbitral tribunal does not dispense justice, it
+cannot truly be reflective of an alternate dispute
+resolution mechanism.  Hence, if the award has resulted
+in an injustice, a Court would be well within its right in
+upholding the challenge to the award on the ground
+that it is in conflict with the public policy of India."
+From this discussion it would be clear that the phrase 'public
+policy of India' is not required to be given a narrower meaning.  As
+stated earlier, the said term is susceptible of narrower or wider
+meaning depending upon the object and purpose of the legislation.
+Hence, the award which is passed in contravention of
+Sections 24
+or 31 could be set aside.  In addition to
+Section 34
+Section 13(5)
+the Act also provides that constitution of the arbitral tribunal could
+also be challenged by a party.	Similarly,
+Section 16
+provides that a
+party aggrieved by the decision of the arbitral tribunal with regard to
+its jurisdiction could challenge such arbitral award under
+Section 34
+In any case, it is for the Parliament to provide for limited or wider
+jurisdiction to the Court in case where award is challenged.  But in
+such cases, there is no reason to give narrower meaning to the term
+'public policy of India' as contended by learned senior counsel Mr.
+Dave.  In our view, wider meaning is required to be given so as to
+prevent frustration of legislation and justice.	  This Court in
+Rattan
+Chand Hira Chand v. Askar Nawaz Jung (Dead) By LRs and others
+[(1991) 3 SCC 67], this Court observed thus:-
+"17.	.. It cannot be disputed that a contract which
+has a tendency to injure public interests or public
+welfare is one against public policy.  What constitutes
+an injury to public interests or welfare would depend
+upon the times and climes. ... The legislature often fails
+to keep pace with the changing needs and values nor as
+it realistic to expect that it will have provided for all
+contingencies and eventualities.  It is, therefore, not only
+necessary but obligatory on the courts to step in to fill
+the lacuna.  When courts perform this function
+undoubtedly they legislate judicially.	But that is a kind
+of legislation which stands implicitly delegated to them
+to further the object of the legislation and to promote the
+goals of the society.  Or to put it negatively, to prevent
+the frustration of the legislation or perversion of the
+goals and values of the society."
+Learned senior counsel Mr. Dave submitted that the purpose of
+giving limited jurisdiction to the Court is obvious and is to see that the
+disputes are resolved at the earliest by giving finality to the award
+passed by the forum chosen by the parties.  As against this, learned
+senior counsel Mr. Desai submitted that in the present system even the
+arbitral proceedings are delayed on one or the other ground including
+the ground that the arbitrator is not free and the matters are not
+disposed of for months together.  He submitted that the legislature has
+not provided any time limit for passing of the award and this indicates
+that the contention raised by the learned counsel for the respondent
+has no bearing in interpreting
+Section 34
+It is true that under the Act, there is no provision similar to
+Sections 23
+and
+of the Arbitration Act, 1940, which specifically
+provided that the arbitrator shall pass award within reasonable time as
+fixed by the Court.  It is also true that on occasions, arbitration
+proceedings are delayed for one or other reason, but it is for the
+parties to take appropriate action of selecting proper arbitrator(s) who
+could dispose of the matter within reasonable time fixed by them.  It is
+for them to indicate the time limit for disposal of the arbitral
+proceedings.  It is for them to decide whether they should continue
+with the arbitrator(s) who cannot dispose of the matter within
+reasonable time.  However, non-providing of time limit for deciding
+the dispute by the arbitrators could have no bearing on interpretation
+Section 34
+.	Further, for achieving the object of speedier disposal of
+dispute, justice in accordance with law cannot be sacrificed.  In our
+view, giving limited jurisdiction to the Court for having finality to the
+award and resolving the dispute by speedier method would be much
+more frustrated by permitting patently illegal award to operate.
+Patently illegal award is required to be set at naught, otherwise it
+would promote injustice.
+Therefore, in our view, the phrase 'Public Policy of India' used
+Section 34
+in context is required to be given a wider meaning.  It
+can be stated that the concept of public policy connotes some matter
+which concerns public good and the public interest.  What is for
+public good or in public interest or what would be injurious or
+harmful to the public good or public interest has varied from time to
+time.  However, the award which is, on the face of it, patently in
+violation of statutory provisions cannot be said to be in public interest.
+Such award/judgment/decision is likely to adversely affect the
+administration of justice.  Hence, in our view in addition to narrower
+meaning given to the term 'public policy' in
+Renusagar
+'s case
+(supra), it is required to be held that the award could be set aside if it
+is patently illegal.  Result would be - award could be set aside if it is
+contrary to: -
+(a)	fundamental policy of Indian law; or
+(b)	the interest of India; or
+(c)	justice or morality, or
+(d)	in addition, if it is patently illegal.
+Illegality must go to the root of the matter and if the illegality is of
+trivial nature it cannot be held that award is against the public policy.
+Award could also be set aside if it is so unfair and unreasonable that it
+shocks the conscience of the Court.  Such award is opposed to public
+policy and is required to be adjudged void.
+NOW ON FACTS:-
+The brief facts of the case are as under:-
+Appellant - ONGC which is a Public Sector Undertaking, has
+challenged the arbitral award dated 2nd May, 1999 by filing
+Arbitration Petition No. 917/1999 before the High Court of Bombay.
+Learned Single Judge dismissed the same.  Appeal No.256/2000
+preferred before the Division Bench of the High Court was also
+dismissed.  Hence, the present appeal.
+It is stated that in response to a tender, respondent-Company
+which is engaged in the business of supplying equipment for Offshore
+Oil exploration and maintenance by its letter dated 27th December,
+1995 on agreed terms and conditions, offered to supply to the
+appellants 26" diameter and 30" diameter casing pipes.	The appellant
+by letter of intent dated 3rd June, 1996 followed by a detailed order
+accepted the offer of the respondent-Company.  As per terms and
+conditions, the goods were required to be supplied on or before 14th
+November, 1996.
+It was the contention of the respondent that as per clause (18) of
+the agreement, the raw materials were required to be procured from
+the reputed and proven manufacturers/suppliers approved by the
+respondent as listed therein.  By letter dated 8th August, 1996,
+respondent placed an order for supply of steel plates, that is, the raw
+material required for manufacturing the pipes with Liva Laminati,
+Piani S.P.A., Italian suppliers stipulating that material must be
+shipped latest by the end of September 1996 as timely delivery was of
+the essence of the order.  It is also their case that all over Europe
+including Italy there was a general strike of the steel mill workers
+during September/October 1996.	Therefore, respondent by its letter
+dated 28th October, 1996 conveyed to the appellant that Italian
+suppliers had faced labour problems and was unable to deliver the
+material as per agreed schedule.  Respondent, therefore, requested for
+an extension of 45 days time for execution of the order in view of the
+reasons beyond its control.  By letter dated 4th December, 1996, the
+time for delivery of the pipes was extended with a specific statement
+inter alia that the amount equivalent to liquidated damages for delay
+in supply of pipes would be recovered from the respondent.  It is the
+contention of the respondent that the appellant made payment of the
+goods supplied after wrongfully deducting an amount of US $
+3,04,970.20 and Rs.15,75,559/- as liquidated damages.  That
+deduction was disputed by the respondent and, therefore, dispute was
+referred to the arbitral tribunal.  The arbitral tribunal arrived at the
+conclusion that strikes affecting the supply of raw material to the
+claimant are not within the definition of  'Force Majeure' in the
+contract between the parties, and hence, on that ground, it cannot be
+said that the amount of liquidated damages was wrongfully withheld
+by the appellant.  With regard to other contention on the basis of
+customs duty also, the arbitral tribunal arrived at the conclusion that it
+would not justify the delay in the supply of goods.  Thereafter, the
+arbitral tribunal considered various decisions of this Court regarding
+recovery of liquidated damages and arrived at the conclusion that it
+was for the appellant to establish that they had suffered any loss
+because of  the breach committed by the respondent in not supplying
+the goods within the prescribed time limit.  The arbitral tribunal
+thereafter appreciated the evidence and arrived at the conclusion that
+in view of the	statement volunteered by Mr. Arumoy Das, it was clear
+that shortage of casing pipes was only one of the other reasons which
+led to the change in the deployment plan and that it has failed to
+establish its case that it has suffered any loss in terms of money
+because of delay in supply of goods under the contract.	 Hence, the
+arbitral tribunal held that appellant has wrongfully withheld the
+agreed amount of US $ 3,04,970.20 and Rs.15,75,559/- on account of
+customs duty, sales tax, freight charges deducted by way of liquidated
+damages.  The arbitral tribunal further held that the respondent was
+entitled to recover  the said amount with interest at the rate of 12 per
+cent p.a. from 1st April 1997 till the date of the filing of statement of
+claim and thereafter having regard to the commercial nature of the
+transaction at the rate of 18 per cent per annum pendente lite till
+payment is made.
+For challenging the said award, learned senior counsel Mr.
+Desai submitted that:-
+(1)	the award is vitiated on the ground that there was delay
+on the part of respondent in supplying agreed goods/
+pipes and for the delay, appellant was entitled to recover
+agreed liquidated damages i.e. a sum equivalent to 1% of
+the contract price for whole unit per week of such delay
+or part thereof.  Thereby, the award was contrary to
+Section 28(3)
+which provides that the arbitral tribunal
+shall decide the dispute in accordance with the terms of
+the contract;
+(2)	the award passed by the arbitrator is on the face of it
+illegal and erroneous as it arrived at the conclusion that
+the appellant was required to prove the loss suffered by it
+before recovering the liquidated damages.  He submitted
+that the arbitral tribunal misinterpreted the law on the
+subject;
+(3)	in any set of circumstances, the award passed by the
+arbitrator granting interest on the liquidated damages
+deducted by the appellant is, on the face of it, unjustified,
+unreasonable and against the specific terms of the
+contract, namely clause 34.4 of the agreement, which
+provides that on 'disputed claim', no interest would be
+payable.
+As against this, learned senior counsel Mr. Dave submitted that
+it is settled law that for the breach of contract provisions of
+Section 74
+of the Contract Act would be applicable and compensation / damages
+could be awarded only if the loss is suffered because of the breach of
+contract.  He submitted that this principle is
+laid down by
+the Privy
+Council as early as in 1929 in Bhai Panna Singh and others v. Bhai
+Arjun Singh and others [AIR 1929 PC 179], wherein the Privy
+Council observed thus: -
+"The effect of
+S. 74
+, Contract Act of 1872, is to
+disentitle the plaintiffs to recover simplicitor the sum of
+Rs.10,000/- whether penalty or liquidated damages.  The
+plaintiffs must prove the damages they have suffered."
+He submitted that this Court has also held that the plaintiff
+claiming liquidated damages has to prove the loss suffered by him.  In
+support of this contention, he referred to and relied upon various
+decisions.  In any case, it is his contention that even if there is any
+error in arriving at the said conclusion, the award cannot be interfered
+with under
+Section 34
+of the Act.
+At this stage, we would refer to the relevant terms of the
+contract upon which learned counsel for the appellant has based his
+submissions, which are as under: -
+"11.	Failure and Termination Clause/Liquidated
+Damages:-
+Time and date of delivery shall be essence of the
+contract.  If the contractor fails to deliver the stores, or
+any installment thereof within the period fixed for such
+delivery in the schedule or at any time repudiates the
+contract before the expiry of such period, the purchaser
+may, without prejudice to any other right or remedy,
+available to him to recover damages for breach of the
+contract:-
+(a)	Recovery from the contractor as agreed
+liquidated damages are not by way of penalty, a
+sum equivalent to 1% (one percent) of the contract
+price of  the whole unit per week for such delay or
+part thereof (this is an agreed, genuine pre-
+estimate of damages duly agreed by the parties)
+which the contractor has failed to deliver within
+the period fixed for delivery in the schedule, where
+delivery thereof is accepted after expiry of the
+aforesaid period.  It may be noted that such
+recovery of liquidated damages may be upto 10%
+of the contract price of whole unit of stores which
+the contractor has failed to deliver within the
+period fixed for delivery, or
+(e)	It may further be noted that clause (a) provides for
+recovery of liquidated damages on the cost of
+contract price of delayed supplies (whole unit) at
+the rate of 1% of the contract price of the whole
+unit per week for such delay or part thereof upto a
+ceiling of 10% of the contract price of delayed
+supplies (whole unit).	Liquidated damages for
+delay in supplies thus accrued will be recovered
+by the paying authorities of the purchaser
+specified in the supply order, from the bill for
+payment of the cost of material submitted by the
+contractor or his foreign principals in accordance
+with the terms of supply order or otherwise.
+(f)	Notwithstanding anything stated above, equipment
+and materials will be deemed to have been
+delivered only when all its components, parts are
+also delivered.	 If certain components are not
+delivered in time the equipment and material will
+be considered as delayed until such time all the
+missing parts are also delivered.
+12.	Levy of liquidated damages (LD) due to delay in
+supplies.
+LD will be imposed on the total value of the order
+unless 75% of the value ordered is supplied within the
+stipulate delivery period.  Where 75% of the value
+ordered has been supplied within stipulated delivery
+period.	 LD will be imposed on the order value of
+delayed supply(ies).  However, where in judgment of
+ONGC, the supply of partial quantity does not fulfill the
+operating need, LD will be imposed on full value of the
+supply order.
+34.4	Delay in Release of Payment: -
+In case where payment is to be made on
+satisfactory receipt of materials at destination or where
+payment is to be made after satisfactory commissioning
+of the equipment as per terms of the supply order.
+ONGC shall make payment within 60 days of receipt of
+invoice / claim complete in all respects.  Any delay in
+payment on undisputed claim / amount beyond 60 days
+of the receipt of invoice / claim will attract interest @ 1%
+per month.  No interest will be paid on disputed claims.
+For interest on delayed payments to small scale and
+Ancillary Industrial Undertakings, the provisions of the
+"Interest of delayed payments to small scale and
+Ancillary Industrial Undertakings Act, 1993 will
+govern."
+Mr. Desai referred to the decision rendered by this Court in
+Delta International Ltd. v. Shyam Sundar Ganeriwalla and another
+[(1999) 4 SCC 545] and submitted that for the purpose of construction
+of contracts, the intention of the parties is to be gathered from the
+words they have used and there is no intention independent of that
+meaning.
+It cannot be disputed that for construction of the contract, it is
+settled law that the intention of the parties is to be gathered from the
+words used in the agreement.  If words are unambiguous and are used
+after full understanding of their meaning by experts, it would be
+difficult to gather their intention different from the language used in
+the agreement.	If upon a reading of the document as a whole, it can
+fairly be deduced from the words actually used therein that the parties
+had agreed on a particular term, there is nothing in law which prevents
+them from setting up that term. {Re:
+Modi & Co. v. Union of India
+[(1968) 2 SCR 565]}.  Further, in construing a contract, the Court
+must look at the words used in the contract unless they are such that
+one may suspect that they do not convey the intention correctly.
+If the
+words are clear, there is very little the court can do about it. {Re:
+Provash Chandra Dalui and another v. Biswanath Banerjee and
+another
+[1989 Supp (1) SCC 487]}.
+Therefore, when parties have expressly agreed that recovery
+from the contractor for breach of the contract is pre-estimated genuine
+liquidated damages and is not by way of penalty duly agreed by the
+parties, there was no justifiable reason for the arbitral tribunal to
+arrive at a conclusion that still the purchaser should prove loss
+suffered by it because of delay in supply of goods.
+Further, in arbitration proceedings, the arbitral tribunal is
+required to decide the dispute in accordance with the terms of the
+contract.  The agreement between the parties specifically provides that
+without prejudice to any other right or	 remedy if the contractor fails
+to deliver the stores within the stipulated time, appellant will be
+entitled to recover from the contractor, as agreed, liquidated damages
+equivalent to 1% of the contract price of the whole unit per week for
+such delay.  Such recovery of liquidated damage could be at the most
+up to 10% of the contract price of whole unit of stores.  Not only this,
+it was also agreed that:-
+(a)	liquidated damages for delay in supplies will be
+recovered by paying authority from the bill for payment
+of cost of material submitted by the contractor;
+(b)	liquidated damages were not by way of penalty and it
+was agreed to be genuine, pre-estimate of damages duly
+agreed by the parties;
+(c)	This pre-estimate of liquidated damages is  not assailed
+by the respondent as unreasonable assessment of
+damages by the parties.
+Further, at the time when respondent sought extension of time
+for supply of goods, time was extended by letter dated 4.12.1996 with
+a specific demand that the clause for liquidated damages would be
+invoked and appellant would recover the same for such delay.
+Despite this specific letter written by the appellant, respondent had
+supplied the goods which would indicate that even at that stage,
+respondent was agreeable to pay liquidated damages.
+On this issue, learned counsel for the parties referred to the
+interpretation given to
+Sections 73
+and
+of the Indian Contract Act
+in Sir Chunilal V. Mehta & Sons Ltd. v. The Century Spinning and
+Manufacturing Co. Ltd. [1962 Supp.
+3) SCR 549], Fateh Chand v.
+Balkishan Das
+[(1964) 1 SCR 515 at 526],
+Maula Bux v. Union of
+India
+1969) 2 SCC 554] Union of India v. Rampur Distillery and
+Chemical Co. Ltd.
+1973) 1 SCC 649] and Union of India v. Raman
+Iron Foundry
+[(1974) 2 SCC 231].
+Relevant part of
+Sections 73
+and
+of Contract Act are as
+under:-
+"73.	Compensation for loss or damage caused by
+breach of contract:- When a contract has been broken,
+the party who suffers by such breach is entitled to
+receive, from the party who has broken the contract,
+compensation for any loss or damage caused to him
+thereby, which naturally arose in the usual course of
+things from such breach, or which the parties knew,
+when they made the contract, to be likely to result from
+the breach of it.
+Such compensation is not to be given for any
+remote and indirect loss or damage sustained by reason
+of the breach.
+74.	Compensation for breach of contract
+where penalty stipulated for.- When a contract has
+been broken, if a sum is named in the contract as the
+amount to be paid in case of such breach, or if the
+contract contains any other stipulation by way of
+penalty, the party complaining of the breach is entitled,
+whether or not actual damage or loss is proved to have
+been caused thereby, to receive from the party who has
+broken the contract reasonable compensation not
+exceeding the amount so named or, as the case may be,
+the penalty stipulated for.
+Explanation.- A stipulation for increased interest
+from the date of default may be a stipulation by way of
+penalty."
+From the aforesaid Sections, it can be held that when a contract
+has been broken, the party who suffers by such breach is entitled to
+receive compensation for any loss which naturally arise in the usual
+course of things from such breach.  These sections further
+contemplate that if parties knew when they made the contract that a
+particular loss is likely to result from such breach, they can agree for
+payment of such compensation.  In such a case, there may not be any
+necessity of leading evidence for proving damages, unless the Court
+arrives at the conclusion that no loss is likely to occur because of such
+breach.	 Further, in case where Court arrives at the conclusion that the
+term contemplating damages is by way of penalty, the Court may
+grant reasonable compensation not exceeding the amount so named in
+the contract on proof of damages.  However, when the terms of the
+contract are clear and unambiguous then its meaning is to be gathered
+only from the words used therein.  In a case where agreement is
+executed by experts in the field, it would be difficult to hold that the
+intention of the parties was different from the language used therein.
+In such a case, it is for the party who contends that stipulated amount
+is not reasonable compensation, to prove the same.
+Now, we would refer to various decisions on the subject.
+Fateh Chand
+'s case (supra), the plaintiff made a claim to forfeit a
+sum of Rs.25000/- received by him from the defendant.  The sum of
+Rs.25000/- consisted of two items - Rs.1000/- received as earnest
+money and Rs.24000/- agreed to be paid by the defendant as out of
+sale price against the delivery of possession of the property.	With
+regard to earnest money, the Court held that the plaintiff was entitled
+to forfeit the same.  With regard to claim of remaining sum of
+Rs.24000/-, the Court referred to
+Section 74
+of Indian Contract Act
+and observed that
+Section 74
+deals with the measure of damages in
+two classes of cases (i) where the contract names a sum to  be paid in
+case of breach, and (ii) where the contract contains any other
+stipulation by way of penalty. The Court observed thus: -
+"The measure of damages in the case of breach of
+a stipulation by way of penalty is by
+S. 74
+reasonable
+compensation not exceeding the penalty stipulated for.
+In assessing damages the Court has, subject to the limit
+of the penalty stipulated, jurisdiction to award such
+compensation as it deems reasonable having regard to all
+the circumstances of the case.	Jurisdiction of the Court
+to award compensation in case of breach of contract is
+unqualified except as to the maximum stipulated; but
+compensation has to be reasonable, and that imposes
+upon the Court duty to award compensation according to
+settled principles.  The section undoubtedly says that the
+aggrieved party is entitled to receive compensation from
+the party who has broken the contract, whether or not
+actual damage or loss is proved to have been caused by
+the breach.  Thereby it merely dispenses with  proof of
+"actual loss or damages"; it does not justify the award
+of compensation when in consequence of the breach no
+legal injury at all has resulted, because compensation
+for breach of contract can be awarded to make good
+loss or damage which naturally arose in the usual
+course of things, or which the parties knew when they
+made the contract, to be likely to result from the breach.
+The Court further observed as under: -
+.... Duty not to enforce the penalty clause but only
+to award reasonable compensation is statutorily imposed
+upon courts by
+S. 74
+.  In all cases, therefore, where there
+is a stipulation in the nature of penalty for forfeiture of an
+amount deposited pursuant to the  terms of contract
+which expressly provides for forfeiture, the court has
+jurisdiction to award such sum only as it considers
+reasonable, but not exceeding the amount specified in the
+contract as liable to forfeiture."
+From the aforesaid decision, it is clear that the Court was not
+dealing with a case where contract named a sum to be paid in case of
+breach but with a case where the contract contained stipulation by
+way of penalty.
+The aforesaid case and other cases were referred to by three
+Judge Bench in
+Maula Bux
+'s case (supra) wherein the Court held
+thus: -
+"... It is true that in every case of breach of contract the
+person aggrieved by the breach is not required to prove
+actual	loss or damage suffered by him before he can
+claim a decree, and the Court is competent to award
+reasonable compensation in case of breach even if no
+actual damage is proved to have been suffered in
+consequence of the breach of contract.	But the
+expression "whether or not actual damage or loss is
+proved to have been caused thereby" is intended to cover
+different classes of contracts which come before the
+Courts.	 In case of breach of some contracts it may be
+impossible for the Court to assess compensation arising
+from breach, while in other cases compensation can be
+calculated in accordance with established rules.  Where
+the Court is unable to assess the compensation, the sum
+named by the parties if it be regarded as a genuine pre-
+estimate may be taken into consideration as the measure
+of reasonable compensation, but not if the sum named is
+in the nature of a penalty.  Where loss in terms of money
+can be determined, the party claiming compensation must
+prove the loss suffered by him."
+Rampur Distillery and Chemical Co. Ltd.
+'s (supra) also,
+two Judge Bench of this Court referred to
+Maula Bux
+'s case and
+observed thus: -
+" ... It was held by this Court that forfeiture of
+earnest money under a contract for sale	 of property does
+not fall within
+Section 70
+of the Contract Act, if the
+amount is reasonable, because the forfeiture of a
+reasonable sum paid as earnest money does not amount
+to the imposition of a penalty.	 But, "where under the
+terms of the contract the party in breach has undertaken
+to pay a sum of money or to forfeit a sum of money
+which he has already paid to the party complaining of a
+breach of contract, the undertaking is of the nature of a
+penalty."
+Raman Iron Foundry
+'s case (supra), this Court considered
+clause 18 of the Contract between the parties and arrived at the
+conclusion that it applied only where the purchaser has a claim for a
+sum presently due and payable by the contractor.  Thereafter, the
+Court observed thus: -
+"11.	Having discussed the proper interpretation of
+Clause 18, we may now turn to consider what is the real
+nature of the claim for recovery of which the appellant is
+seeking to appropriate the sums due to the respondent
+under other contracts.	The claim is admittedly one for
+damages for breach of the contract between the parties.
+Now, it is true that the damages which are claimed are
+liquidated damages under Clause 14, but so far as the law
+in India is concerned, there is no qualitative difference in
+the nature of the claim whether it be for liquidated
+damages or for unliquidated damages.
+Section 74
+of the
+Indian Contract Act eliminates the somewhat elaborate
+refinements made under the English common law in
+distinguishing between stipulations providing for
+payment of liquidated damages and stipulations in the
+nature of penalty.  Under the common law a genuine pre-
+estimate of damages by mutual agreement is regarded as
+a stipulation naming liquidated damages and binding
+between the parties : a stipulation in a contract in
+terrorem is a penalty and the Court refuses to enforce it,
+awarding to the aggrieved party only reasonable
+compensation.  The Indian Legislature has sought to cut
+across the web of rules and presumptions under the
+English common law, by enacting a uniform principle
+applicable to all stipulations naming amounts to be paid
+in case of breach, and stipulations by way of penalty, and
+according  to this principle, even if there is a stipulation
+by way of liquidated damages, a party complaining of
+breach of contract can recover only reasonable
+compensation for the injury sustained by him, the
+stipulated amount being merely the outside limit.  It,
+therefore, makes no difference in the present case that the
+claim of the appellant is for liquidated damages.  It stands
+on the same footing as a claim for unliquidated damages.
+Now the law is well settled that a claim for unliquidated
+damages does not give rise to a debt until the liability is
+adjudicated and damages assessed by a decree or order of
+a Court or other adjudicatory authority.  When there is a
+breach of contract, the party who commits the breach
+does not eo instanti incur any pecuniary obligation, nor
+does the party complaining of the breach becomes
+entitled to a debt due from the other party.  The only right
+which the party aggrieved by the breach of the contract
+has is the right to sue for damages."
+Firstly, it is to be stated that in the aforesaid case Court has not
+referred to earlier decision rendered by the five Judge Bench in
+Fateh
+Chand
+'s case or the decision rendered by the three Judge Bench in
+Maula Bux
+'s case.
+Further, in M/s
+H.M. Kamaluddin Ansari and
+Co. v. Union of India and others
+[(1983) 4 SCC 417], three Judge
+Bench of this Court has over-ruled the decision in
+Raman Iron
+Foundry
+'s case (supra) and the Court while interpreting similar term
+of the contract observed that it gives wider power to Union of India to
+recover the amount claimed by appropriating any sum then due or
+which at any time may become due to the contractors under other
+contracts and the Court observed that clause 18 of the Standard
+Contract confers ample powers on the Union of India to withhold the
+amount and no injunction order could be passed restraining the Union
+of India from withholding the amount.
+In the light of the aforesaid decisions, in our view, there is
+much force in the contention raised by the learned counsel for the
+appellant.  However, the learned senior counsel Mr. Dave submitted
+that even if the award passed by the arbitral tribunal is erroneous, it is
+settled law that when two views are possible with regard to
+interpretation of statutory provisions and or facts, the Court would
+refuse to interfere with such award.
+It is true that if the arbitral tribunal has committed mere error of
+fact or law in reaching its conclusion on the disputed question
+submitted to it for adjudication then the Court would have no
+jurisdiction to interfere with the award.  But, this would depend upon
+reference made to the arbitrator: (a) If there is a general reference for
+deciding the contractual dispute between the parties and if the award
+is based on erroneous legal proposition, the Court could interfere; (b)
+It is also settled law that in a case of reasoned award, the Court can set
+aside the same if it is, on the face of it, erroneous on the proposition of
+law or its application; (c) If a specific question of law is submitted to
+the arbitrator, erroneous decision in point of law does not make the
+award bad, so as to permit of its being set aside, unless the Court is
+satisfied that the arbitrator had proceeded illegally.
+In the facts of the case, it cannot be disputed that if contractual
+term, as it is, is to be taken into consideration, the award is, on the
+face of it, erroneous and in violation of the terms of the contract and
+thereby it violates
+Section 28(3)
+of the Act.  Undisputedly, reference
+to the arbitral tribunal was not with regard to interpretation of
+question of law.  It was only a general reference with regard to claim
+of respondent.	Hence, if the award is erroneous on the basis of record
+with regard to proposition of law or its application, the Court will
+have jurisdiction to interfere with the same.
+Dealing with the similar question, this Court in M/s
+Alopi
+Parshad & Sons Ltd. v. The Union of India
+[(1960) 2 SCR 793]
+observed that the extent of jurisdiction of the Court to set aside the
+award on the ground of an error in making the award is well defined
+and held thus:-
+"The award of an arbitrator may be set aside on the
+ground of an error on the face thereof only when in the
+award  or in any document incorporated with it, as for
+instance, a note appended by the arbitrators, stating the
+reasons for his decision, there is found some legal
+proposition which is the basis of the award and which is
+erroneous-Champsey
+Bhara and Company v. Jivaraj
+Balloo Spinning and Weaving Company Limited [L.R.
+IA 324].
+If however, a specific question is submitted to
+the arbitrator and he answers it, the fact that the answer
+involves an erroneous decision in point of law, does not
+make the  award bad on its face so as to permit of its
+being set aside-In the matter of an arbitration between
+King and Duveen and others [LR (1913) 2 KBD 32] and
+Government of Kelantan v. Duff Development Company
+Limited [LR 1923 AC 395].
+Thereafter, the Court held that if there was a general reference and not
+a specific reference on any question of law then the award can be set
+aside if it demonstrated to be erroneous on the face of it.  The Court,
+in that case, considering
+Section 56
+of the Indian Contract Act held
+that the
+Indian Contract Act
+does not enable a party to a contract to
+ignore the express provisions thereof and to claim payment of
+consideration for performance of  the contract at rates different from
+the stipulated rates, on some vague plea of equity and that the
+arbitrators were not justified in ignoring the expressed terms of the
+contract prescribing the remuneration payable to the agents.  The
+aforesaid law has been followed continuously.
+Re. Rajasthan State
+Mines & Minerals Ltd. v. Eastern Engineering Enterprises and
+another
+1999) 9 SCC 283], Sikkim Subba Associates v. State of
+Sikkim
+2001) 5 SCC 629] and G.M., Northern Railway and
+another v. Sarvesh Chopra
+[(2002) 4 SCC 45]}.
+There is also elaborate discussion on this aspect in
+Union of
+India v. A.L. Rallia Ram
+[(1964) 3 SCR 164] wherein the Court
+succinctly observed as under:-
+".. But it is now firmly established that an award is bad
+on the ground of error of law on the face of it, when in
+the award itself or in	a document actually incorporated
+in it, there is found some legal proposition which is the
+basis of the award and which is erroneous.  An error in
+law on the face of the award means : "you can find in the
+award or a document actually incorporated thereto, as for
+instance, a note appended by the arbitrator stating the
+reasons for his judgment, some legal proposition which is
+the basis of the award and which you can then say is
+erroneous.  It does not mean that if in a narrative a
+'reference is made to a contention of one party, that
+opens the door to setting first what that contention is, and
+then going to the contract on which the parties' rights
+depend to see if that contention is sound"
+Champsey
+Bhara and Company v. Jivraj Balloo Spinning and
+Weaving Company Ltd.
+[(1932) L.R. 50 I.A. 324]	But
+this rule does not apply where questions of law are
+specifically referred to the arbitrator for his decision; the
+award of the arbitrator on those questions is binding upon
+the parties, for by referring specific questions the parties
+desire to have a decision from the arbitrator on those
+questions rather than from the Court, and the Court will
+not unless it is satisfied that the arbitrator had proceeded
+illegally interfere with the decision."
+The Court thereafter referred to the decision rendered in
+Seth
+Thawardas Pherumal v. The Union of India
+[(1955) 2 SCR 48]
+wherein Bose, J. delivering the judgment of the Court had observed:
+"Therefore, when a question of law is the point at
+issue, unless both sides specifically agree to refer it and
+agree to be bound by the arbitrator's decision, the
+jurisdiction of the Courts to set an arbitration right when
+the error is apparent on the face of the award is not
+ousted.	 The mere fact that both parties submit incidental
+arguments about point of law in the course of the
+proceedings is not enough."
+The learned Judge also observed at p. 59 after
+referring to F.R. Absalom Ltd. v. Great Western
+(London) Garden Village Society [1933] AC 592, 616:
+Simply because the matter was referred to
+incidentally in the pleadings and arguments
+in support of, or against, the general issue
+about liability for damages, that is not
+enough to clothe the arbitrator with
+exclusive jurisdiction on a point of law."
+The Court also referred to the test indicated by Lord Russell of
+Killowen in F.R. Absalom Ltd. v. Great Western (London) Garden
+Village Society Ltd., and observed that the said case adequately brings
+out a distinction between a specific reference on a question of law,
+and a question of law arising for determination by the arbitrator in the
+decision of the dispute.  The Court quoted the following observations
+with approval: -
+" .. it is, I think, essential to keep the case where
+disputes are referred to an arbitrator in the decision of
+which a question of law becomes material distinct from
+the case in which a specific question of law has been
+referred to him for decision. x	 x  x  x  The authorities
+make a clear distinction between these two cases, and, as
+they appear to me, they decide that in the former case
+the Court can interfere if and when any error of law
+appears on the face of the award, but that in the latter
+case no such interference is possible upon the ground
+that it so appears that the decision upon the question of
+law is an erroneous one."
+Further, in
+Maharashtra State Electricity Board v. Sterilite
+Industries (India) and Another
+[(2001) 8 SCC 482], the Court
+observed as under:-
+"9.	The position in law has been noticed by this
+Court in Union of India v. A.L. Rallia Ram [AIR 1963
+SC 1685] and Madanlal Roshanlal Mahajan v.
+Hukumchand Mills Ltd. [(1967) 1 SCR 105] to the
+effect that the arbitrator's award both on facts and law is
+final  that there is no appeal from his verdict; that the
+court cannot review his award and correct any mistake in
+his adjudication, unless the objection to the legality of the
+award is apparent on the face of it.  In understanding
+what would be an error of law on the face of the award,
+the following observations in Champsey Bhara & Co. v.
+Jivraj Balloo Spg and Wvg. Co. Ltd, [(1922-23) 50 IA
+324] a decision of the Privy Council, are relevant (IA p.
+331)
+"An error in law on the face of the
+award means, in Their Lordship's view,
+that you can find in the award on a
+document actually incorporated thereto, as
+for instance, a note appended by the
+arbitrator stating the reasons for his
+judgment, some legal proposition which is
+the basis of the award and which you can
+then say is erroneous."
+10.
+Arosan Enterprises Ltd. v. Union of India
+[1999 (9) SCC 449], this Court again examined this
+matter and stated that where the error of finding of fact
+having a bearing on the award is patent and is easily
+demonstrable without the necessity of carefully weighing
+the various possible viewpoints, the interference in the
+award based on an erroneous finding of fact is
+permissible and similarly, if an award is based by
+applying a principle of	 law which is patently erroneous,
+and but for such erroneous application of legal principle,
+the award could not have been made, such award is liable
+to be set aside by holding that there has been a legal
+misconduct on the part of the arbitrator."
+Next question is - whether the legal proposition which is the
+basis of the award for arriving at the conclusion that ONGC was not
+entitled to recover the stipulated liquidated damages as it has failed to
+establish that it has suffered any loss is erroneous on the face of it?
+The arbitral tribunal after considering the decisions rendered by this
+Court in the cases of
+Fateh Chand, Maula Bux and Rampur
+Distillery
+(supra) arrived at the conclusion that "in view of these three
+decisions of the Supreme Court, it is clear that it was for the
+respondents to establish that they had suffered any loss because of the
+breach committed by the claimant in the supply of goods under the
+contract between the parties after 14th November, 1996.	 In the words
+we have emphasized in Maula Bux decision, it is clear that if loss in
+terms of money can be determined, the party claiming the
+compensation 'must prove' the loss suffered by him".
+Thereafter the arbitral tribunal referred to the evidence and the
+following statement made by the witness Das:
+"The re-deployment plan was made keeping in mind
+several constraints including shortage of casing pipes."
+Further, the arbitral tribunal came to the conclusion that under
+these circumstances, the shortage of casing pipes of 26" diameter and
+30" diameter pipes was not the only reason which led to redeployment
+of rig Trident II to Platform B 121.  The arbitral tribunal also
+appreciated the other evidence and held that the attempt on the part of
+the ONGC to show that production of gas on Platform B 121 was
+delayed because of the late supply of goods by the claimant failed.
+Thereafter, the arbitral tribunal considered the contention raised by the
+learned counsel for the ONGC that the amount of 10% which had
+been deducted by way of liquidated damages for the late supply of
+goods under the contract was not by way of penalty.  In response
+thereto, it was pointed out that it was not the case of learned counsel
+Mr. Setalwad on behalf of the claimants that "these stipulations in the
+contract for deduction of liquidated damages was by way of penalty".
+Further, the arbitral tribunal observed that in view of the decisions
+rendered in Fateh Chand and Maula Bux cases, "all that we are
+required to consider is whether the respondents have established their
+case of actual	loss in money terms because of the delay in the supply
+of the Casing Pipes under the contract between the parties".  Finally,
+the arbitral tribunal held that as the appellant has failed to prove the
+loss suffered  because of delay in supply of goods as set out in the
+contract between the parties, it is required to refund the amount
+deducted by way of liquidated damages from the specified amount
+payable to the respondent.
+It is apparent from the aforesaid reasoning recorded by the
+arbitral  tribunal that it failed to consider
+Sections 73
+and
+of the
+Indian Contract Act and the
+ratio
+laid down in
+Fateh Chand
+'s case
+(supra) wherein it is specifically held that jurisdiction of the Court to
+award compensation in case of breach of contract is unqualified
+except as to the maximum stipulated; and compensation has to be
+reasonable.  Under
+Section 73
+, when a contract has been broken, the
+party who suffers by such breach is entitled to receive compensation
+for any loss caused to him which the parties knew when they made the
+contract to be likely to result from the breach of it.	This Section is to
+be read with
+Section 74
+, which deals with penalty stipulated in the
+contract, inter alia [relevant for the present case] provides that when a
+contract has been broken, if a sum is named in the contract as the
+amount to be  paid in case of such breach, the party complaining of
+breach is entitled, whether or not actual loss is proved to have been
+caused, thereby to receive from the party who has broken the contract
+reasonable compensation not exceeding the amount so named.
+Section 74
+emphasizes that in case of breach of contract, the party
+complaining of the breach is entitled to receive reasonable
+compensation whether or not actual loss is proved to have been
+caused by such breach.	Therefore, the emphasis is on reasonable
+compensation.  If the compensation named in the contract is by way
+of penalty, consideration would be different and the party is only
+entitled to reasonable compensation for the loss suffered.  But if the
+compensation named in the contract for such breach is genuine pre-
+estimate of loss which the parties knew when they made the contract
+to be likely to result from the breach of it, there is no question of
+proving such loss or such party is not required to lead evidence to
+prove actual loss suffered by him.  Burden is on the other party to lead
+evidence for proving that no loss is likely to occur by such breach.
+Take for illustration: if the parties have agreed to purchase cotton
+bales and the same were only to be kept as a stock-in-trade.  Such
+bales are not delivered on the due date and thereafter the bales are
+delivered beyond the stipulated time, hence there is breach of the
+contract.  Question which would arise for consideration is - whether
+by such breach party has suffered any loss.  If the price of cotton bales
+fluctuated during that time, loss or gain could easily be proved.  But if
+cotton bales are to be purchased for manufacturing yarn, consideration
+would be different.
+Maula Bux
+'s case (supra), plaintiff - Maula Bux entered
+into a contract with the Government of India to supply potatoes at the
+Military Head Quarters, U.P. Area and deposited an amount of
+Rs.10000/- as security for due performance of the contract.  He
+entered into another contract with the Government of India to supply
+at the same place poultry eggs and fish for one year and deposited an
+amount of Rs.8500/- for due performance of the contract.  Plaintiff
+having made persistent default in making regular and full supplies of
+the commodities agreed to be supplied, the Government rescinded the
+contracts and forfeited the amounts deposited by the plaintiff, because
+under the terms of the agreement, the amounts deposited by the
+plaintiff as security for the due  performance of the contracts were to
+stand forfeited in case plaintiff neglected to perform his part of the
+contract.  In context of these facts, Court held that it was possible for
+the Government of India to lead evidence to prove the rates at which
+potatoes, poultry, eggs and fish were purchased by them when the
+plaintiff failed to deliver "regularly and fully" the quantities stipulated
+under the terms of the contracts and after the contracts were
+terminated.  They could have proved the rates at which they had to be
+purchased and also the other incidental charges incurred by them in
+procuring the goods contracted for.  But no such attempt was made.
+Hence, claim for damages was not granted.
+Maula Bux
+'s case (supra), the Court has specifically held
+that it is true that in every case of breach of contract the person
+aggrieved by the breach is not required to prove actual loss or damage
+suffered by him before he can claim a decree and the Court is
+competent to award reasonable compensation in a case of breach even
+if no actual damage is proved to have been suffered in consequence of
+the breach of contract.	 The Court has also specifically held that in
+case of breach of some contracts it may be impossible for the Court to
+assess compensation arising from breach.
+Take for illustration construction of a road or a bridge.  If there
+is delay in completing the construction of road or bridge within
+stipulated time, then it would be difficult to prove how much loss is
+suffered by the Society / State.  Similarly, in the present case, delay
+took place in deployment of rigs and on that basis actual production of
+gas from platform B-121 had to be changed.  It is undoubtedly true
+that the witness has stated that redeployment plan was made keeping
+in mind several constraints including shortage of casing pipes.
+Arbitral Tribunal, therefore, took into consideration the aforesaid
+statement volunteered by the witness that shortage of casing pipes was
+only one of the several reasons and not the only reason which led to
+change in deployment of plan or redeployment of rigs Trident-II
+platform B-121.	 In our view, in such a contract, it would be difficult
+to prove exact loss or damage which the parties suffer because of the
+breach thereof.	 In such a situation, if the parties have pre-estimated
+such loss after clear understanding, it would be totally unjustified to
+arrive at the conclusion that party who has committed breach of the
+contract is not liable to pay compensation.  It would be against the
+specific provisions of
+Section 73
+and
+of the Indian Contract Act.
+There was nothing on record that compensation contemplated by the
+parties was in any way unreasonable.  It has been specifically
+mentioned that it was an agreed genuine pre-estimate of damages duly
+agreed by the parties.	It was also mentioned that the liquidated
+damages are not by way of penalty.  It was also provided in the
+contract that such damages are to be recovered by the purchaser from
+the bills for payment of the cost of material submitted by the
+contractor. No evidence is led by the claimant to establish that
+stipulated condition was by way of penalty or the compensation
+contemplated was, in any way, unreasonable. There was no reason for
+the tribunal not to rely upon the clear and unambiguous terms of
+agreement stipulating pre-estimate damages because of delay in
+supply of goods.  Further, while extending the time for delivery of the
+goods, respondent was informed that it would be required to pay
+stipulated damages.
+From the aforesaid discussions, it can be held that:-
+(1)	Terms of the contract are required to be taken into
+consideration before arriving at the conclusion whether
+the party claiming damages is entitled to the same;
+(2)	If the terms are clear and unambiguous stipulating the
+liquidated damages in case of the breach of the contract
+unless it is held that such estimate of
+damages/compensation is unreasonable or is by way of
+penalty, party who has committed the breach is required
+to pay such compensation and that is what is provided in
+Section 73
+of the Contract Act.
+(3)
+Section 74
+is to be read along with
+Section 73
+and,
+therefore, in every case of breach of contract, the person
+aggrieved by the breach is not required to prove actual
+loss or damage suffered by him before he can claim a
+decree.	 The Court is competent to award reasonable
+compensation in case of breach even if no actual damage
+is proved to have been suffered in consequences of the
+breach of a contract.
+(4)	In some contracts, it would be impossible for the Court to
+assess the compensation arising from breach and if the
+compensation contemplated is not by way of penalty or
+unreasonable, Court can award the same if it is genuine
+pre-estimate by the parties as the measure of reasonable
+compensation.
+For the reasons stated above, the impugned award directing the
+appellant to refund the amount deducted for the breach as per
+contractual terms requires to be set aside and is hereby set aside.
+WHETHER THE CLAIM OF REFUND OF THE AMOUNT DEDUCTED
+BY THE APPELLANT FROM THE BILLS IS DISPUTED OR
+UNDISPUTED CLAIM?
+As the award directing the appellant to refund the amount
+deducted is set aside, question of granting interest on the same would
+not arise.  Still however, to demonstrate that the award passed by the
+arbitral tribunal is, on the face of it, erroneous with regard to grant of
+interest, we deal with the same.
+Arbitral Tribunal arrived at the conclusion that the appellant
+wrongfully withheld/deducted the aggregate amount of US $
+3,04,970.20 on account of delay in supply of goods and amount of
+Rs.15,75,559/- on account of excise duty, sales tax, freight charges
+deducted as and by way of liquidated damages from the amount
+payable by the respondent and thereafter arrived at the conclusion that
+the said amount was deducted from undisputed invoice amount,
+therefore, the said claim of the respondent cannot be held to be
+'disputed claim'.
+It is apparent that the claim of the contractor to recover the said
+amount was disputed mainly because it was agreed term between the
+parties that in case of delay in supply of goods appellant was entitled
+to recover damages at the rate as specified in the agreement.  It was
+also agreed that the said liquidated damages were to be recovered by
+paying authorities from the bills for payment of the cost of material
+submitted by the contractor.  If this agreed amount is deducted and
+thereafter contractor claims it back on the ground that the appellant
+was not entitled to deduct the same as it has failed to prove loss
+suffered by it, the said claim undoubtedly would be a 'disputed
+claim'.	   The arbitrators were required to decide by considering the
+facts and the law applicable, whether the deduction was justified or
+not?  That itself would indicate that the claim of the contractor was
+'disputed claim' and not 'undisputed'.	The reason recorded by the
+arbitrators that as the goods were received and bills are not disputed,
+therefore, the claim for recovering the amount of bills cannot be held
+to be 'disputed claim' is, on the face of it, unjust, unreasonable,
+unsustainable and patently illegal as well as against the expressed
+terms of the contract.	As quoted above, clause 34.4 in terms provides
+that no interest would be payable on 'disputed claim'.	It also provides
+that in which set of circumstances, interest amount would be paid in
+case of delay in payment of undisputed claim.  In such case, the
+interest rate is also specified at 1% per month on such undisputed
+claim amount.  Despite this clause, the arbitral tribunal came to the
+conclusion that it was undisputed claim and held that in law, appellant
+was not entitled to withhold these two payments from the invoice
+raised by the respondent and hence directed that the appellant was
+liable to pay interest on wrongful deductions at the rate of 12% p.a.
+from 1.4.1997 till the date of filing of the statement of claim and
+thereafter having regard to the commercial nature of the transaction at
+the rate of 18% p.a. pendente lite till payment.
+It is to be reiterated that it is the primary duty of the arbitrators
+to enforce a promise which the parties have made and to uphold the
+sanctity of the contract which forms the basis of the civilized society
+and also the jurisdiction of the arbitrators.  Hence, this part of the
+award passed by the arbitral tribunal granting interest on the amount
+deducted by the appellant from the bills payable to the respondent is
+against the terms of the contract and is, therefore, violative of
+Section
+28(3)
+of the Act.
+CONCLUSIONS:-
+In the result, it is held that:-
+A.	(1)	The Court can set aside the arbitral award under
+Section 34(2)
+of the Act if the party making the
+application furnishes proof that:-
+(i)	a party was under some incapacity, or
+(ii)	the arbitration agreement is not valid under
+the law to which the parties have subjected it
+or, failing any indication thereon, under the
+law for the time being in force; or
+(iii)	the party making the application was not
+given proper notice of the appointment of an
+arbitrator or of the arbitral proceedings or
+was otherwise unable to present his case; or
+(iv)	the arbitral award deals with a dispute not
+contemplated by or not falling within the
+terms of the submission to arbitration, or it
+contains decisions on matters beyond the
+scope of the submission to arbitration;
+2)	The Court may set aside the award:-
+(i)	(a)  if the composition of the arbitral tribunal
+was not in accordance with the agreement of
+the parties,
+(b)	failing such agreement, the
+composition of the arbitral tribunal was not
+in accordance with
+Part-I of the Act
+(ii)	if the arbitral procedure was not in
+accordance with:-
+(a)	the agreement of the parties, or
+(b)	failing such agreement, the arbitral
+procedure was not in accordance with
+Part-I of the Act
+However, exception for setting aside
+the award on the ground of
+composition of arbitral tribunal or
+illegality of arbitral procedure is that
+the agreement should not be in
+conflict with the provisions of
+Part-I
+of the Act
+from which parties cannot
+derogate.
+(c)	If the award passed by the arbitral
+tribunal is in contravention of
+provisions of the Act or any other
+substantive law governing the parties
+or is against the terms of the contract.
+(3)	The award could be set aside if it is against the
+public policy of India, that is to say, if it is
+contrary to:-
+(a)	fundamental policy of Indian law;
+(b)	the interest of India; or
+(c)	justice or morality, or
+(d)	if it is patently illegal.
+(4)	It could be challenged:-
+(a)	as provided under Section 13(5); and
+(b)
+Section 16(6)
+of the Act.
+B.	(1)	The impugned award requires to be set aside
+mainly on the grounds:-
+(i)	there is specific stipulation in the agreement
+that the time and date of delivery of the
+goods was the essence of the contract;
+(ii)	in case of failure to deliver the goods within
+the period fixed for such delivery in the
+schedule, ONGC was entitled to recover
+from the contractor liquidated damages as
+agreed;
+(iii)	it was also explicitly understood that the
+agreed liquidated damages were genuine
+pre-estimate of damages;
+(iv)	on the request of the respondent to extend
+the time limit for supply of goods, ONGC
+informed specifically that time was extended
+but stipulated liquidated damages as agreed
+would be recovered;
+(v)	liquidated damages for delay in supply of
+goods were to be recovered by paying
+authorities from the bills for payment of cost
+of material supplied by the contractor;
+(vi)	there is nothing on record to suggest that
+stipulation for recovering liquidated
+damages was by way of penalty or that the
+said sum was in any way unreasonable.
+(vii)	In certain contracts, it is impossible to assess
+the damages or prove the same.	Such
+situation is taken care by
+Sections 73
+and
+of the Contract Act and in the present case
+by specific terms of the contract.
+For the reasons stated above, the impugned award directing the
+appellant to refund US $ 3,04,970.20 and Rs.15,75,559/- with interest
+which were deducted for the breach of contract as per the agreement
+requires to be set aside and is hereby set aside.  The appeal is allowed
+accordingly.  There shall be no order as to costs.

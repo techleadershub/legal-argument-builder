@@ -1,0 +1,32 @@
+# Python-generated files
+__pycache__/
+*.py[oc]
+build/
+dist/
+wheels/
+*.egg-info
+
+# Virtual environments
+.venv
+env/
+venv/
+
+# Environment variables
+.env
+.env.*
+
+# Search Database (Local)
+qdrant_db/
+
+# Large Archives
+*.zip
+# !qdrant_db.zip <- Removed
+*.tar.gz
+
+# IDE settings
+.vscode/
+.idea/
+
+# OS generated files
+.DS_Store
+Thumbs.db

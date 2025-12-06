@@ -1,0 +1,359 @@
+{
+  "total_cases": 70,
+  "topics": [
+    "property_disputes"
+  ],
+  "cases_per_topic": 70,
+  "cases": [
+    {
+      "file": "case_law_data\\property_disputes_001.txt",
+      "title": "Vishal Pipes Limited vs Bhavya Pipe Industry on 3 June, 2022",
+      "url": "https://indiankanoon.org/doc/129126895/"
+    },
+    {
+      "file": "case_law_data\\property_disputes_002.txt",
+      "title": "Mrs. Jyoti S. Doshi vs M/S Hindustan Hosiery Mills on 2 May, 2000",
+      "url": "https://indiankanoon.org/doc/1396062/"
+    },
+    {
+      "file": "case_law_data\\property_disputes_003.txt",
+      "title": "G.B.C.Raj Gopal vs The Government Of A.P. Rep., By The ... on 24 April, 2014",
+      "url": "https://indiankanoon.org/doc/15684794/"
+    },
+    {
+      "file": "case_law_data\\property_disputes_004.txt",
+      "title": "Girish Kanaiyalal Munshi vs Sudha Girish Munshi And Kirtidev Girish ... on 6 May, 2008",
+      "url": "https://indiankanoon.org/doc/1443843/"
+    },
+    {
+      "file": "case_law_data\\property_disputes_005.txt",
+      "title": "P. Chandra Mouli vs Govt. Of A.P., Dept. Of Home And Ors. on 24 March, 2005",
+      "url": "https://indiankanoon.org/doc/1906323/"
+    },
+    {
+      "file": "case_law_data\\property_disputes_006.txt",
+      "title": "Kailash Satyanarayan Khandal vs Vijaykumar Satnarayan Khandal And ... on 15 January, 2018",
+      "url": "https://indiankanoon.org/doc/26299100/"
+    },
+    {
+      "file": "case_law_data\\property_disputes_007.txt",
+      "title": "Kuruva Muliniti Lakshmana, Kurnool ... vs State Of Ap., Rep. Pp. Hyd., on 14 September, 2020",
+      "url": "https://indiankanoon.org/doc/189330291/"
+    },
+    {
+      "file": "case_law_data\\property_disputes_008.txt",
+      "title": "Basheera Begam vs Mohammed Ibrahim And Ors on 31 January, 2020",
+      "url": "https://indiankanoon.org/doc/89820566/"
+    },
+    {
+      "file": "case_law_data\\property_disputes_009.txt",
+      "title": "Syed Kamar Khusnoor @ Sheru vs State Of U.P. on 7 March, 2025",
+      "url": "https://indiankanoon.org/doc/169222390/"
+    },
+    {
+      "file": "case_law_data\\property_disputes_010.txt",
+      "title": "Rajesh Sharma vs Govt Of Nct Of Delhi Represented By ... on 14 November, 2024",
+      "url": "https://indiankanoon.org/doc/149832237/"
+    },
+    {
+      "file": "case_law_data\\property_disputes_011.txt",
+      "title": "Vishal Pipes Limited vs Bhavya Pipe Industry on 3 June, 2022",
+      "url": "https://indiankanoon.org/doc/129126895/"
+    },
+    {
+      "file": "case_law_data\\property_disputes_012.txt",
+      "title": "Mrs. Jyoti S. Doshi vs M/S Hindustan Hosiery Mills on 2 May, 2000",
+      "url": "https://indiankanoon.org/doc/1396062/"
+    },
+    {
+      "file": "case_law_data\\property_disputes_013.txt",
+      "title": "G.B.C.Raj Gopal vs The Government Of A.P. Rep., By The ... on 24 April, 2014",
+      "url": "https://indiankanoon.org/doc/15684794/"
+    },
+    {
+      "file": "case_law_data\\property_disputes_014.txt",
+      "title": "Girish Kanaiyalal Munshi vs Sudha Girish Munshi And Kirtidev Girish ... on 6 May, 2008",
+      "url": "https://indiankanoon.org/doc/1443843/"
+    },
+    {
+      "file": "case_law_data\\property_disputes_015.txt",
+      "title": "P. Chandra Mouli vs Govt. Of A.P., Dept. Of Home And Ors. on 24 March, 2005",
+      "url": "https://indiankanoon.org/doc/1906323/"
+    },
+    {
+      "file": "case_law_data\\property_disputes_016.txt",
+      "title": "Kailash Satyanarayan Khandal vs Vijaykumar Satnarayan Khandal And ... on 15 January, 2018",
+      "url": "https://indiankanoon.org/doc/26299100/"
+    },
+    {
+      "file": "case_law_data\\property_disputes_017.txt",
+      "title": "Kuruva Muliniti Lakshmana, Kurnool ... vs State Of Ap., Rep. Pp. Hyd., on 14 September, 2020",
+      "url": "https://indiankanoon.org/doc/189330291/"
+    },
+    {
+      "file": "case_law_data\\property_disputes_018.txt",
+      "title": "Basheera Begam vs Mohammed Ibrahim And Ors on 31 January, 2020",
+      "url": "https://indiankanoon.org/doc/89820566/"
+    },
+    {
+      "file": "case_law_data\\property_disputes_019.txt",
+      "title": "Syed Kamar Khusnoor @ Sheru vs State Of U.P. on 7 March, 2025",
+      "url": "https://indiankanoon.org/doc/169222390/"
+    },
+    {
+      "file": "case_law_data\\property_disputes_020.txt",
+      "title": "Rajesh Sharma vs Govt Of Nct Of Delhi Represented By ... on 14 November, 2024",
+      "url": "https://indiankanoon.org/doc/149832237/"
+    },
+    {
+      "file": "case_law_data\\property_disputes_021.txt",
+      "title": "Vishal Pipes Limited vs Bhavya Pipe Industry on 3 June, 2022",
+      "url": "https://indiankanoon.org/doc/129126895/"
+    },
+    {
+      "file": "case_law_data\\property_disputes_022.txt",
+      "title": "Mrs. Jyoti S. Doshi vs M/S Hindustan Hosiery Mills on 2 May, 2000",
+      "url": "https://indiankanoon.org/doc/1396062/"
+    },
+    {
+      "file": "case_law_data\\property_disputes_023.txt",
+      "title": "G.B.C.Raj Gopal vs The Government Of A.P. Rep., By The ... on 24 April, 2014",
+      "url": "https://indiankanoon.org/doc/15684794/"
+    },
+    {
+      "file": "case_law_data\\property_disputes_024.txt",
+      "title": "Girish Kanaiyalal Munshi vs Sudha Girish Munshi And Kirtidev Girish ... on 6 May, 2008",
+      "url": "https://indiankanoon.org/doc/1443843/"
+    },
+    {
+      "file": "case_law_data\\property_disputes_025.txt",
+      "title": "P. Chandra Mouli vs Govt. Of A.P., Dept. Of Home And Ors. on 24 March, 2005",
+      "url": "https://indiankanoon.org/doc/1906323/"
+    },
+    {
+      "file": "case_law_data\\property_disputes_026.txt",
+      "title": "Kailash Satyanarayan Khandal vs Vijaykumar Satnarayan Khandal And ... on 15 January, 2018",
+      "url": "https://indiankanoon.org/doc/26299100/"
+    },
+    {
+      "file": "case_law_data\\property_disputes_027.txt",
+      "title": "Kuruva Muliniti Lakshmana, Kurnool ... vs State Of Ap., Rep. Pp. Hyd., on 14 September, 2020",
+      "url": "https://indiankanoon.org/doc/189330291/"
+    },
+    {
+      "file": "case_law_data\\property_disputes_028.txt",
+      "title": "Basheera Begam vs Mohammed Ibrahim And Ors on 31 January, 2020",
+      "url": "https://indiankanoon.org/doc/89820566/"
+    },
+    {
+      "file": "case_law_data\\property_disputes_029.txt",
+      "title": "Syed Kamar Khusnoor @ Sheru vs State Of U.P. on 7 March, 2025",
+      "url": "https://indiankanoon.org/doc/169222390/"
+    },
+    {
+      "file": "case_law_data\\property_disputes_030.txt",
+      "title": "Rajesh Sharma vs Govt Of Nct Of Delhi Represented By ... on 14 November, 2024",
+      "url": "https://indiankanoon.org/doc/149832237/"
+    },
+    {
+      "file": "case_law_data\\property_disputes_031.txt",
+      "title": "Vishal Pipes Limited vs Bhavya Pipe Industry on 3 June, 2022",
+      "url": "https://indiankanoon.org/doc/129126895/"
+    },
+    {
+      "file": "case_law_data\\property_disputes_032.txt",
+      "title": "Mrs. Jyoti S. Doshi vs M/S Hindustan Hosiery Mills on 2 May, 2000",
+      "url": "https://indiankanoon.org/doc/1396062/"
+    },
+    {
+      "file": "case_law_data\\property_disputes_033.txt",
+      "title": "G.B.C.Raj Gopal vs The Government Of A.P. Rep., By The ... on 24 April, 2014",
+      "url": "https://indiankanoon.org/doc/15684794/"
+    },
+    {
+      "file": "case_law_data\\property_disputes_034.txt",
+      "title": "Girish Kanaiyalal Munshi vs Sudha Girish Munshi And Kirtidev Girish ... on 6 May, 2008",
+      "url": "https://indiankanoon.org/doc/1443843/"
+    },
+    {
+      "file": "case_law_data\\property_disputes_035.txt",
+      "title": "P. Chandra Mouli vs Govt. Of A.P., Dept. Of Home And Ors. on 24 March, 2005",
+      "url": "https://indiankanoon.org/doc/1906323/"
+    },
+    {
+      "file": "case_law_data\\property_disputes_036.txt",
+      "title": "Kailash Satyanarayan Khandal vs Vijaykumar Satnarayan Khandal And ... on 15 January, 2018",
+      "url": "https://indiankanoon.org/doc/26299100/"
+    },
+    {
+      "file": "case_law_data\\property_disputes_037.txt",
+      "title": "Kuruva Muliniti Lakshmana, Kurnool ... vs State Of Ap., Rep. Pp. Hyd., on 14 September, 2020",
+      "url": "https://indiankanoon.org/doc/189330291/"
+    },
+    {
+      "file": "case_law_data\\property_disputes_038.txt",
+      "title": "Basheera Begam vs Mohammed Ibrahim And Ors on 31 January, 2020",
+      "url": "https://indiankanoon.org/doc/89820566/"
+    },
+    {
+      "file": "case_law_data\\property_disputes_039.txt",
+      "title": "Syed Kamar Khusnoor @ Sheru vs State Of U.P. on 7 March, 2025",
+      "url": "https://indiankanoon.org/doc/169222390/"
+    },
+    {
+      "file": "case_law_data\\property_disputes_040.txt",
+      "title": "Rajesh Sharma vs Govt Of Nct Of Delhi Represented By ... on 14 November, 2024",
+      "url": "https://indiankanoon.org/doc/149832237/"
+    },
+    {
+      "file": "case_law_data\\property_disputes_041.txt",
+      "title": "Vishal Pipes Limited vs Bhavya Pipe Industry on 3 June, 2022",
+      "url": "https://indiankanoon.org/doc/129126895/"
+    },
+    {
+      "file": "case_law_data\\property_disputes_042.txt",
+      "title": "Mrs. Jyoti S. Doshi vs M/S Hindustan Hosiery Mills on 2 May, 2000",
+      "url": "https://indiankanoon.org/doc/1396062/"
+    },
+    {
+      "file": "case_law_data\\property_disputes_043.txt",
+      "title": "G.B.C.Raj Gopal vs The Government Of A.P. Rep., By The ... on 24 April, 2014",
+      "url": "https://indiankanoon.org/doc/15684794/"
+    },
+    {
+      "file": "case_law_data\\property_disputes_044.txt",
+      "title": "Girish Kanaiyalal Munshi vs Sudha Girish Munshi And Kirtidev Girish ... on 6 May, 2008",
+      "url": "https://indiankanoon.org/doc/1443843/"
+    },
+    {
+      "file": "case_law_data\\property_disputes_045.txt",
+      "title": "P. Chandra Mouli vs Govt. Of A.P., Dept. Of Home And Ors. on 24 March, 2005",
+      "url": "https://indiankanoon.org/doc/1906323/"
+    },
+    {
+      "file": "case_law_data\\property_disputes_046.txt",
+      "title": "Kailash Satyanarayan Khandal vs Vijaykumar Satnarayan Khandal And ... on 15 January, 2018",
+      "url": "https://indiankanoon.org/doc/26299100/"
+    },
+    {
+      "file": "case_law_data\\property_disputes_047.txt",
+      "title": "Kuruva Muliniti Lakshmana, Kurnool ... vs State Of Ap., Rep. Pp. Hyd., on 14 September, 2020",
+      "url": "https://indiankanoon.org/doc/189330291/"
+    },
+    {
+      "file": "case_law_data\\property_disputes_048.txt",
+      "title": "Basheera Begam vs Mohammed Ibrahim And Ors on 31 January, 2020",
+      "url": "https://indiankanoon.org/doc/89820566/"
+    },
+    {
+      "file": "case_law_data\\property_disputes_049.txt",
+      "title": "Syed Kamar Khusnoor @ Sheru vs State Of U.P. on 7 March, 2025",
+      "url": "https://indiankanoon.org/doc/169222390/"
+    },
+    {
+      "file": "case_law_data\\property_disputes_050.txt",
+      "title": "Rajesh Sharma vs Govt Of Nct Of Delhi Represented By ... on 14 November, 2024",
+      "url": "https://indiankanoon.org/doc/149832237/"
+    },
+    {
+      "file": "case_law_data\\property_disputes_051.txt",
+      "title": "Vishal Pipes Limited vs Bhavya Pipe Industry on 3 June, 2022",
+      "url": "https://indiankanoon.org/doc/129126895/"
+    },
+    {
+      "file": "case_law_data\\property_disputes_052.txt",
+      "title": "Mrs. Jyoti S. Doshi vs M/S Hindustan Hosiery Mills on 2 May, 2000",
+      "url": "https://indiankanoon.org/doc/1396062/"
+    },
+    {
+      "file": "case_law_data\\property_disputes_053.txt",
+      "title": "G.B.C.Raj Gopal vs The Government Of A.P. Rep., By The ... on 24 April, 2014",
+      "url": "https://indiankanoon.org/doc/15684794/"
+    },
+    {
+      "file": "case_law_data\\property_disputes_054.txt",
+      "title": "Girish Kanaiyalal Munshi vs Sudha Girish Munshi And Kirtidev Girish ... on 6 May, 2008",
+      "url": "https://indiankanoon.org/doc/1443843/"
+    },
+    {
+      "file": "case_law_data\\property_disputes_055.txt",
+      "title": "P. Chandra Mouli vs Govt. Of A.P., Dept. Of Home And Ors. on 24 March, 2005",
+      "url": "https://indiankanoon.org/doc/1906323/"
+    },
+    {
+      "file": "case_law_data\\property_disputes_056.txt",
+      "title": "Kailash Satyanarayan Khandal vs Vijaykumar Satnarayan Khandal And ... on 15 January, 2018",
+      "url": "https://indiankanoon.org/doc/26299100/"
+    },
+    {
+      "file": "case_law_data\\property_disputes_057.txt",
+      "title": "Kuruva Muliniti Lakshmana, Kurnool ... vs State Of Ap., Rep. Pp. Hyd., on 14 September, 2020",
+      "url": "https://indiankanoon.org/doc/189330291/"
+    },
+    {
+      "file": "case_law_data\\property_disputes_058.txt",
+      "title": "Basheera Begam vs Mohammed Ibrahim And Ors on 31 January, 2020",
+      "url": "https://indiankanoon.org/doc/89820566/"
+    },
+    {
+      "file": "case_law_data\\property_disputes_059.txt",
+      "title": "Syed Kamar Khusnoor @ Sheru vs State Of U.P. on 7 March, 2025",
+      "url": "https://indiankanoon.org/doc/169222390/"
+    },
+    {
+      "file": "case_law_data\\property_disputes_060.txt",
+      "title": "Rajesh Sharma vs Govt Of Nct Of Delhi Represented By ... on 14 November, 2024",
+      "url": "https://indiankanoon.org/doc/149832237/"
+    },
+    {
+      "file": "case_law_data\\property_disputes_061.txt",
+      "title": "Vishal Pipes Limited vs Bhavya Pipe Industry on 3 June, 2022",
+      "url": "https://indiankanoon.org/doc/129126895/"
+    },
+    {
+      "file": "case_law_data\\property_disputes_062.txt",
+      "title": "Mrs. Jyoti S. Doshi vs M/S Hindustan Hosiery Mills on 2 May, 2000",
+      "url": "https://indiankanoon.org/doc/1396062/"
+    },
+    {
+      "file": "case_law_data\\property_disputes_063.txt",
+      "title": "G.B.C.Raj Gopal vs The Government Of A.P. Rep., By The ... on 24 April, 2014",
+      "url": "https://indiankanoon.org/doc/15684794/"
+    },
+    {
+      "file": "case_law_data\\property_disputes_064.txt",
+      "title": "Girish Kanaiyalal Munshi vs Sudha Girish Munshi And Kirtidev Girish ... on 6 May, 2008",
+      "url": "https://indiankanoon.org/doc/1443843/"
+    },
+    {
+      "file": "case_law_data\\property_disputes_065.txt",
+      "title": "P. Chandra Mouli vs Govt. Of A.P., Dept. Of Home And Ors. on 24 March, 2005",
+      "url": "https://indiankanoon.org/doc/1906323/"
+    },
+    {
+      "file": "case_law_data\\property_disputes_066.txt",
+      "title": "Kailash Satyanarayan Khandal vs Vijaykumar Satnarayan Khandal And ... on 15 January, 2018",
+      "url": "https://indiankanoon.org/doc/26299100/"
+    },
+    {
+      "file": "case_law_data\\property_disputes_067.txt",
+      "title": "Kuruva Muliniti Lakshmana, Kurnool ... vs State Of Ap., Rep. Pp. Hyd., on 14 September, 2020",
+      "url": "https://indiankanoon.org/doc/189330291/"
+    },
+    {
+      "file": "case_law_data\\property_disputes_068.txt",
+      "title": "Basheera Begam vs Mohammed Ibrahim And Ors on 31 January, 2020",
+      "url": "https://indiankanoon.org/doc/89820566/"
+    },
+    {
+      "file": "case_law_data\\property_disputes_069.txt",
+      "title": "Syed Kamar Khusnoor @ Sheru vs State Of U.P. on 7 March, 2025",
+      "url": "https://indiankanoon.org/doc/169222390/"
+    },
+    {
+      "file": "case_law_data\\property_disputes_070.txt",
+      "title": "Rajesh Sharma vs Govt Of Nct Of Delhi Represented By ... on 14 November, 2024",
+      "url": "https://indiankanoon.org/doc/149832237/"
+    }
+  ]
+}
