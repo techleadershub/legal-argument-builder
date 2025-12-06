@@ -101,14 +101,6 @@ Then:
 
 ---
 
-## ☁️ Deployment
-
-This project is **Docker-ready** and optimized for **AWS App Runner**.
-
-See **DEPLOY_AWS.md** for a step-by-step deployment guide.
-
----
-
 ## 📂 Project Structure
 
 ```
@@ -129,3 +121,4 @@ This software is an AI prototype for **research and educational purposes only**.
 It does **not** provide legal advice. Always consult a qualified lawyer for legal matters.
 
 ---
+
