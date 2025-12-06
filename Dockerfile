@@ -1,10 +1,13 @@
-FROM python:3.11-slim
+FROM ghcr.io/astral-sh/uv:python3.11-bookworm-slim
 
 WORKDIR /app
 
+# Enable bytecode compilation
+ENV UV_COMPILE_BYTECODE=1
+
 # Install dependencies
 COPY requirements.txt .
-RUN pip install --no-cache-dir -r requirements.txt
+RUN uv pip install --system --no-cache -r requirements.txt
 
 # Copy application code and the local Qdrant database
 # Note: This "bakes in" the database state at build time. 
