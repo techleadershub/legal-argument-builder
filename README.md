@@ -70,7 +70,7 @@ Create a `.env` file:
 OPENAI_API_KEY=sk-your-key-here
 ```
 
-### **4. (Optional) Ingest new case law**
+### **4. Setup the Qdrant Vector Database**
 
 ```bash
 python ingest_case_law.py
@@ -121,4 +121,5 @@ This software is an AI prototype for **research and educational purposes only**.
 It does **not** provide legal advice. Always consult a qualified lawyer for legal matters.
 
 ---
+
 
