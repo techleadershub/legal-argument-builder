@@ -22,4 +22,4 @@ ENV STREAMLIT_SERVER_ADDRESS=0.0.0.0
 # Command to run the app
 # Command to run the app
 # check for ingestion on startup to ensure DB is ready in volatile environments
-CMD ["sh", "-c", "python ingest_case_law.py && streamlit run app.py"]
+CMD ["sh", "-c", "echo 'Current working directory:' && pwd && ls -la && echo 'Starting ingestion...' && python ingest_case_law.py && echo 'Ingestion complete. Starting Streamlit...' && streamlit run app.py"]
