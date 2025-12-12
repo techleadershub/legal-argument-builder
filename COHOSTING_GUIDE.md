@@ -194,6 +194,25 @@ Certbot usually installs a systemd timer to check your certificates twice a day 
 2. **Test the Renewal Process**:
    To be absolutely sure it will work when the time comes, run a "dry run". This simulates the process without actually changing anything.
    ```bash
+   ```bash
    sudo certbot renew --dry-run
    ```
    If this reports "Simulated renewal succeeded", your certificates will renew automatically forever.
+
+---
+
+## Final Check: Auto-Restart on Boot
+
+We have configured `docker-compose.yml` with `restart: unless-stopped`. This means the container will start automatically after a reboot, **but only if the Docker service itself is managed by the OS**.
+
+Run this one command to ensure Docker starts when the server boots:
+
+```bash
+sudo systemctl enable docker
+```
+
+**Verification Plan:**
+1. Reboot the server: `sudo reboot`
+2. Wait 1 minute.
+3. Visit `https://legalargumentbuilder.futureproofindia.com`. acts
+4. It should load automatically without you SSH-ing in.
