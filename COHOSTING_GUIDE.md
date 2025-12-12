@@ -145,3 +145,35 @@ Running two AI agents + Nginx requires memory management.
    ```
 
 **Done!** Your server is now a multi-tenant AI powerhouse.
+
+---
+
+## Troubleshooting: GitHub Cloning Issues
+
+If `git clone` fails despite adding SSH keys:
+
+1. **Verify URL Type**: You MUST use the **SSH URL**, not HTTPS.
+   - ❌ Wrong: `git clone https://github.com/techleadershub/legal-argument-builder.git`
+   - ✅ Correct: `git clone git@github.com:techleadershub/legal-argument-builder.git`
+
+2. **Test Connection**:
+   Run this on EC2 to check if GitHub accepts your key:
+   ```bash
+   ssh -T git@github.com
+   ```
+   - If it says "Hi [username]!", it works.
+   - If it says "Permission denied (publickey)", read step 3.
+
+3. **Manual Key Usage**:
+   If you named your key something custom (e.g., `github_key`), tell git to use it:
+   ```bash
+   # Add to SSH agent
+   eval "$(ssh-agent -s)"
+   ssh-add ~/.ssh/github_key
+   ```
+   
+4. **Permissions Fix**:
+   SSH keys must be private.
+   ```bash
+   chmod 600 ~/.ssh/config ~/.ssh/id_rsa
+   ```
