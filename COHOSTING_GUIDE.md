@@ -59,11 +59,11 @@ docker ps
 
 ## Part 3: Configure Nginx (Reverse Proxy)
 
-We need Nginx to direct traffic from `legalargumentbuilder...` to this new container.
+Since your server uses the `conf.d` pattern, we will create a new config file right next to your existing one.
 
 ### 1. Create Nginx Config
 ```bash
-sudo nano /etc/nginx/sites-available/legal-agent
+sudo nano /etc/nginx/conf.d/legal-agent.conf
 ```
 
 ### 2. Paste Configuration
@@ -85,11 +85,10 @@ server {
 }
 ```
 
-### 3. Enable the Site
-```bash
-# Link the file to sites-enabled
-sudo ln -s /etc/nginx/sites-available/legal-agent /etc/nginx/sites-enabled/
+### 3. Reload Nginx
+No symbolic links needed for `conf.d`. Just test and reload.
 
+```bash
 # Test configuration (Ensure no syntax errors)
 sudo nginx -t
 
