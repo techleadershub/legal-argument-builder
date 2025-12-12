@@ -39,9 +39,20 @@ def ingest_data():
     print(f"Initializing Qdrant at {QDRANT_PATH}...")
     client = QdrantClient(path=QDRANT_PATH)
     
-    # Always recreate collection to ensure fresh start and correct dimensions
+    # Check if collection exists and has data
     if client.collection_exists(COLLECTION_NAME):
-        print(f"Removing existing collection '{COLLECTION_NAME}'...")
+        try:
+            count_result = client.count(COLLECTION_NAME)
+            if count_result.count > 0:
+                print(f"✅ Collection '{COLLECTION_NAME}' already exists with {count_result.count} documents. Skipping ingestion.")
+                return
+        except Exception as e:
+            print(f"⚠️ Error checking collection count: {e}. Proceeding with fresh ingestion.")
+            pass # Fall through to re-ingest if check fails
+
+    # Recreate collection to ensure fresh start and correct dimensions if not existing or empty/error
+    if client.collection_exists(COLLECTION_NAME):
+        print(f"Removing existing collection '{COLLECTION_NAME}' (empty or forced refresh)...")
         client.delete_collection(COLLECTION_NAME)
         
     print(f"Creating collection '{COLLECTION_NAME}' with size {VECTOR_SIZE}...")

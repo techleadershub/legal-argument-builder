@@ -1,0 +1,21 @@
+services:
+  legal-agent:
+    build: .
+    container_name: legal-agent
+    ports:
+      - "8501:8080"
+    volumes:
+      # Persist the Qdrant database to the host machine
+      # This ensures that even if you restart the container, you don't lose the index
+      # and the ingestion script will know to skip re-ingestion.
+      - ./qdrant_db:/app/qdrant_db
+      
+      # Optional: Map the data folder locally so you can upload new .txt files 
+      # to the server's ./data folder and they will be ingested on next restart
+      - ./data:/app/data
+    env_file:
+      - .env
+    environment:
+      - STREAMLIT_SERVER_PORT=8080
+      - STREAMLIT_SERVER_ADDRESS=0.0.0.0
+    restart: unless-stopped

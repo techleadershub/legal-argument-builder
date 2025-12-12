@@ -11,4 +11,5 @@ meta/
 docs/
 deploy_aws.md
 check_qdrant.py
-ingest_case_law.py # Not needed in runtime container
+# ingest_case_law.py # Needed for startup
+
