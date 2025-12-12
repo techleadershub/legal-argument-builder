@@ -174,5 +174,26 @@ If `git clone` fails despite adding SSH keys:
 4. **Permissions Fix**:
    SSH keys must be private.
    ```bash
+   ```bash
    chmod 600 ~/.ssh/config ~/.ssh/id_rsa
    ```
+
+---
+
+## SSL Certificate Auto-Renewal
+
+Certbot usually installs a systemd timer to check your certificates twice a day and renew them if they are within 30 days of expiration.
+
+1. **Verify Auto-Renewal is Active**:
+   ```bash
+   sudo systemctl status snap.certbot.renew.service
+   # OR
+   sudo systemctl list-timers | grep certbot
+   ```
+
+2. **Test the Renewal Process**:
+   To be absolutely sure it will work when the time comes, run a "dry run". This simulates the process without actually changing anything.
+   ```bash
+   sudo certbot renew --dry-run
+   ```
+   If this reports "Simulated renewal succeeded", your certificates will renew automatically forever.
